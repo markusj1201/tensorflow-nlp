@@ -1,14 +1,14 @@
 #### Contents
 
-* [Text Classification（文本分类）](https://github.com/zhedongzheng/finch2/blob/master/README.md#text-classification)
+* [Text Classification（文本分类）](https://github.com/zhedongzheng/finch#text-classification)
 
-* [Text Matching（文本匹配）](https://github.com/zhedongzheng/finch2/blob/master/README.md#text-matching)
+* [Text Matching（文本匹配）](https://github.com/zhedongzheng/finch#text-matching)
 
-* [Spoken Language Understanding（对话理解）](https://github.com/zhedongzheng/finch2/blob/master/README.md#spoken-language-understanding)
+* [Spoken Language Understanding（对话理解）](https://github.com/zhedongzheng/finch#spoken-language-understanding)
 
-* [Knowledge Graph Completion（知识图谱补全）](https://github.com/zhedongzheng/finch2/blob/master/README.md#knowledge-graph-completion)
+* [Knowledge Graph Completion（知识图谱补全）](https://github.com/zhedongzheng/finch#knowledge-graph-completion)
 
-* [Question Answering（问题回答）](https://github.com/zhedongzheng/finch2/blob/master/README.md#question-answering)
+* [Question Answering（问题回答）](https://github.com/zhedongzheng/finch#question-answering)
 
 ---
 
