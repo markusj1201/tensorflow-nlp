@@ -6,6 +6,8 @@
 
 * [Spoken Language Understanding（对话理解）](https://github.com/zhedongzheng/finch#spoken-language-understanding)
 
+* [Semantic Parsing（语义解析）](https://github.com/zhedongzheng/finch#semantic-parsing)
+
 * [Knowledge Graph Completion（知识图谱补全）](https://github.com/zhedongzheng/finch#knowledge-graph-completion)
 
 * [Question Answering（问题回答）](https://github.com/zhedongzheng/finch#question-answering)
@@ -149,7 +151,7 @@
 
 	* [\<Notebook>: Make Vocabulary](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/spoken_language_understanding/atis/data/make_data.ipynb)
 	
-	* [\<Text File>: Vocabulary Example](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/spoken_language_understanding/atis/vocab/word.txt)
+		* [\<Text File>: Vocabulary Example](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/spoken_language_understanding/atis/vocab/word.txt)
 
 	* Model: [Bi-directional GRU](https://www.ijcai.org/Proceedings/16/Papers/425.pdf)
 	
@@ -162,6 +164,44 @@
 		* TensorFlow 2
 
 			* [\<Notebook> -> 97.2% Intent Accuracy and 95.6% Slot Accuracy on Testing Data](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/spoken_language_understanding/atis/main/transformer.ipynb)
+
+---
+
+## Semantic Parsing
+
+```
+└── finch/tensorflow2/semantic_parsing/tree_slu
+	│
+	├── data
+	│   └── make_data.ipynb           	# step 1. run this to generate vocab: word.txt, intent.txt, slot.txt 
+	│   └── train.tsv   		  	# incomplete sample, format <text, tokenized_text, tree>
+	│   └── test.tsv    		  	# incomplete sample, format <text, tokenized_text, tree>
+	│
+	├── vocab
+	│   └── source.txt                	# list of words in vocabulary for source (of seq2seq)
+	│   └── target.txt                	# list of words in vocabulary for target (of seq2seq)
+	│	
+	└── main              
+		└── transformer_part1.ipynb 	# step 2. train and evaluate model
+		└── transformer_part2.ipynb     # restore from part1 and keep training at smaller learning rate
+```
+
+* Task: [Semantic Parsing for Task Oriented Dialog](https://aclweb.org/anthology/D18-1300)
+
+	* [\<Text File>: Data Example](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/semantic_parsing/tree_slu/data/train.tsv)
+
+	* [\<Notebook>: Make Vocabulary](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/semantic_parsing/tree_slu/data/make_data.ipynb)
+	
+		* [\<Text File>: Vocabulary Example](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/semantic_parsing/tree_slu/vocab/target.txt)
+
+	* Model: [Transformer](https://arxiv.org/abs/1706.03762)
+	
+		* TensorFlow 2
+			
+			* 71.6% Exact Match Accuracy on Testing Data
+			
+				* [\<Notebook Part1>](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/semantic_parsing/tree_slu/main/transformer_part1.ipynb)
+				* [\<Notebook Part2>](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/semantic_parsing/tree_slu/main/transformer_part2.ipynb)
 
 ---
 
