@@ -201,6 +201,7 @@
 			* 71.6% Exact Match Accuracy on Testing Data
 			
 				* [\<Notebook Part1>](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/semantic_parsing/tree_slu/main/transformer_part1.ipynb)
+				
 				* [\<Notebook Part2>](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/semantic_parsing/tree_slu/main/transformer_part2.ipynb)
 
 ---
