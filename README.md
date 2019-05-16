@@ -183,7 +183,10 @@
 	│	
 	└── main              
 		└── transformer_part1.ipynb 	# step 2. train and evaluate model
-		└── transformer_part2.ipynb     # restore from part1 and keep training at smaller learning rate
+		└── transformer_part2.ipynb     # restore from part1 and continue training
+		└── transformer_part3.ipynb 	# restore from part2 and continue training
+		└── rnn_seq2seq_part1.ipynb     # step 2. train and evaluate model
+		└── rnn_seq2seq_part2.ipynb     # restore from part 1 and continue training
 ```
 
 * Task: [Semantic Parsing for Task Oriented Dialog](https://aclweb.org/anthology/D18-1300)
@@ -201,6 +204,14 @@
 			* 71.3% Exact Match Accuracy on Testing Data
 			
 				* [\<Notebook Part1>](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/semantic_parsing/tree_slu/main/transformer_part1.ipynb) [\<Notebook Part2>](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/semantic_parsing/tree_slu/main/transformer_part2.ipynb) [\<Notebook Part3>](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/semantic_parsing/tree_slu/main/transformer_part3.ipynb)
+
+	* Model: [RNN Seq2Seq](https://arxiv.org/abs/1409.0473)
+	
+		* TensorFlow 2
+			
+			* 72.6% Exact Match Accuracy on Testing Data
+			
+				* [\<Notebook Part1>](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/semantic_parsing/tree_slu/main/rnn_seq2seq_part1.ipynb) [\<Notebook Part2>](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/semantic_parsing/tree_slu/main/rnn_seq2seq_part2.ipynb)
 
 ---
 
