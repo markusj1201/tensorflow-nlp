@@ -173,6 +173,7 @@
 └── finch/tensorflow2/semantic_parsing/tree_slu
 	│
 	├── data
+	│   └── glove.840B.300d.txt     # pretrained embedding, download and put here
 	│   └── make_data.ipynb           	# step 1. run this to generate vocab: word.txt, intent.txt, slot.txt 
 	│   └── train.tsv   		  	# incomplete sample, format <text, tokenized_text, tree>
 	│   └── test.tsv    		  	# incomplete sample, format <text, tokenized_text, tree>
