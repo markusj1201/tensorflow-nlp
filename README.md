@@ -1,3 +1,5 @@
+The code has been run on Google Colab which provides free GPU memory
+
 #### Contents
 
 * [Text Classification（文本分类）](https://github.com/zhedongzheng/finch#text-classification)
