@@ -1,4 +1,4 @@
-The code has been run on Google Colab which provides free GPU memory
+* The code has been run on Google Colab which provides free GPU memory
 
 #### Contents
 
