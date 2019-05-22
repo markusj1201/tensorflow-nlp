@@ -78,7 +78,7 @@
 
 		* TensorFlow 2
 
-			* [\<Notebook> Sliced RNN -> 91.3 % Testing Accuracy](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/text_classification/imdb/main/sliced_rnn.ipynb)
+			* [\<Notebook> Sliced RNN -> 91.4 % Testing Accuracy](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/text_classification/imdb/main/sliced_rnn.ipynb)
 
 ---
 
