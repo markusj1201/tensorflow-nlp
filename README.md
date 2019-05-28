@@ -159,7 +159,7 @@
 	
 		* TensorFlow 2
 
-			* [\<Notebook> -> 97.4% Intent Accuracy, 95.5% Slot Accuracy, 98.4% F1 on Testing Data](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/spoken_language_understanding/atis/main/bigru.ipynb)
+			* [\<Notebook> -> 97.4% Intent Accuracy, 95.5% Slot Accuracy, 98.4% Slot F1 on Testing Data](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/spoken_language_understanding/atis/main/bigru.ipynb)
 
 	* Model: [Transformer](https://arxiv.org/abs/1706.03762)
 	
