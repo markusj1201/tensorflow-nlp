@@ -155,11 +155,15 @@
 	
 		* [\<Text File>: Vocabulary Example](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/spoken_language_understanding/atis/vocab/word.txt)
 
-	* Model: [Bi-directional GRU](https://www.ijcai.org/Proceedings/16/Papers/425.pdf)
+	* Model: [Bi-directional RNN](https://www.ijcai.org/Proceedings/16/Papers/425.pdf)
 	
 		* TensorFlow 2
 
-			* [\<Notebook> -> 97.4% Intent Accuracy, 95.5% Slot Accuracy, 98.4% Slot F1 on Testing Data](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/spoken_language_understanding/atis/main/bigru.ipynb)
+			* [\<Notebook> -> 98.4% Slot F1, 97.4% Intent Accuracy, 95.5% Slot Accuracy on Testing Data](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/spoken_language_understanding/atis/main/bigru.ipynb)
+			
+			  \+ Template Generated Data
+			
+			* [\<Notebook> -> 98.8% Slot F1, 97.3% Intent Accuracy, 95.3% Slot Accuracy on Testing Data](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/spoken_language_understanding/atis/main/template_bilstm.ipynb)
 
 	* Model: [Transformer](https://arxiv.org/abs/1706.03762)
 	
