@@ -24,8 +24,9 @@
 	├── data
 	│   └── glove.840B.300d.txt          # pretrained embedding, download and put here
 	│   └── make_data.ipynb              # step 1. make data and vocab: train.txt, test.txt, word.txt
-	│   └── train.txt  		     # incomplete sample, format <label, text1, text2> separated by \t 
-	│   └── test.txt   		     # incomplete sample, format <label, text1, text2> separated by \t
+	│   └── train.txt  		     # incomplete sample, format <label, text> separated by \t 
+	│   └── test.txt   		     # incomplete sample, format <label, text> separated by \t
+	│   └── train_bt_part1.txt  	     # (back-translated) incomplete sample, format <label, text> separated by \t
 	│
 	├── vocab
 	│   └── word.txt                     # incomplete sample, list of words in vocabulary
@@ -36,6 +37,7 @@
 		└── fasttext_unigram.ipynb   # step 2: train and evaluate model
 		└── fasttext_bigram.ipynb    # step 2: train and evaluate model
 		└── sliced_rnn.ipynb         # step 2: train and evaluate model
+		└── sliced_rnn_bt.ipynb      # step 2: train and evaluate model
 ```
 
 * Task: [IMDB](http://ai.stanford.edu/~amaas/data/sentiment/)
@@ -79,6 +81,8 @@
 		* TensorFlow 2
 
 			* [\<Notebook> Sliced RNN -> 91.4 % Testing Accuracy](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/text_classification/imdb/main/sliced_rnn.ipynb)
+			
+			* [\<Notebook> Sliced RNN + Back-Translation -> 91.7 % Testing Accuracy](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/text_classification/imdb/main/sliced_rnn_bt.ipynb)
 
 ---
 
