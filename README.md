@@ -86,7 +86,7 @@
 			
 			* [\<Notebook> Sliced RNN + Back-Translation -> 91.7 % Testing Accuracy](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/text_classification/imdb/main/sliced_rnn_bt.ipynb)
 			
-			* [\<Notebook> Sliced RNN + Back-Translation + Character Embedding -> 92.3 % Testing Accuracy](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/text_classification/imdb/main/sliced_rnn_bt_char.ipynb)
+			* [\<Notebook> Sliced RNN + Back-Translation + Char Embedding -> 92.3 % Testing Accuracy](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/text_classification/imdb/main/sliced_rnn_bt_char.ipynb)
 
 ---
 
