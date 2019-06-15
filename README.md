@@ -174,6 +174,12 @@
 		* TensorFlow 2
 
 			* [\<Notebook> -> 98.3% Slot F1, 95.6% Filtered Slot Accuracy, 97.2% Intent Accuracy on Testing Data](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/spoken_language_understanding/atis/main/transformer.ipynb)
+			
+	* Model: Bi-directional RNN + Self Attention
+	
+		* TensorFlow 2
+
+			* [\<Notebook> -> 98.6% Slot F1, 95.6% Filtered Slot Accuracy, 97.4% Intent Accuracy on Testing Data](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/spoken_language_understanding/atis/main/bigru_self_attn.ipynb)
 
 ---
 
