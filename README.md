@@ -167,9 +167,9 @@
 	
 		* TensorFlow 2
 
-			* [\<Notebook> BiGRU -> 98.3% Slot F1, 95.5% Filtered Slot Accuracy, 97.4% Intent Accuracy on Testing Data](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/spoken_language_understanding/atis/main/bigru.ipynb)
+			* [\<Notebook> Bi-GRU -> 98.3% Slot F1, 95.5% Filtered Slot Accuracy, 97.4% Intent Accuracy on Testing Data](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/spoken_language_understanding/atis/main/bigru.ipynb)
 			
-			* [\<Notebook> BiGRU + Self Attention -> 98.6% Slot F1, 95.6% Filtered Slot Accuracy, 97.4% Intent Accuracy on Testing Data](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/spoken_language_understanding/atis/main/bigru_self_attn.ipynb)
+			* [\<Notebook> Bi-GRU + Self Attention -> 98.6% Slot F1, 95.6% Filtered Slot Accuracy, 97.4% Intent Accuracy on Testing Data](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/spoken_language_understanding/atis/main/bigru_self_attn.ipynb)
 
 	* Model: [Transformer](https://arxiv.org/abs/1706.03762)
 	
