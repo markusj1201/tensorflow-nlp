@@ -228,7 +228,7 @@
 	
 		* TensorFlow 2
 			
-			* [\<Notebook> -> 72.9% Exact Match Accuracy on Testing Data](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/semantic_parsing/tree_slu/main/gru_seq2seq.ipynb)
+			* [\<Notebook>](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/semantic_parsing/tree_slu/main/gru_seq2seq.ipynb) -> 72.9% Exact Match Accuracy on Testing Data
 
 ---
 
