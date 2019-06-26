@@ -132,6 +132,12 @@
 		
 			* [\<Notebook> -> 87.4% Testing Accuracy](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/text_matching/snli/main/esim.ipynb)
 
+		* TensorFlow 1
+		
+			* [\<Notebook> -> 87.4% Testing Accuracy](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/text_matching/snli/main/esim_train.ipynb)
+			
+			* [Inference](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/text_matching/snli/main/esim_serve.ipynb)
+
 ---
 
 ## Spoken Language Understanding
@@ -270,6 +276,12 @@
 		* TensorFlow 2
 
 			* [\<Notebook> -> 94.9% Hits@10 and 81.0% MRR on Testing Data](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/knowledge_graph_completion/wn18/main/distmult_1-N.ipynb)
+			
+		* TensorFlow 1
+
+			* [\<Notebook> -> 95.0% Hits@10 and 79.2% MRR on Testing Data](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/knowledge_graph_completion/wn18/main/distmult_1-N_train.ipynb)
+
+			* [Serve](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/knowledge_graph_completion/wn18/main/distmult_1-N_serve.ipynb)
 
 ---
 
@@ -299,3 +311,9 @@
 	* [\<Notebook>: Make Vocabulary](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/question_answering/babi/data/make_data.ipynb)
 	
 	* Model: [Dynamic Memory Network](https://arxiv.org/abs/1603.01417)
+	
+		* TensorFlow 1
+		
+			* [\<Notebook> -> 99.4% Testing Accuracy](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/question_answering/babi/main/dmn_train.ipynb)
+			
+			* [Inference](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/question_answering/babi/main/dmn_serve.ipynb)
