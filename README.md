@@ -138,6 +138,12 @@
 			
 			* [Inference](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/text_matching/snli/main/esim_serve.ipynb)
 
+	* Model: ESIM + [ELMO Embedding](https://arxiv.org/abs/1802.05365)
+
+		* TensorFlow 1
+		
+			* [\<Notebook> -> 87.8% Testing Accuracy](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/text_matching/snli/main/elmo_esim.ipynb)
+
 ---
 
 ## Spoken Language Understanding
