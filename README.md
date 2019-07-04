@@ -142,7 +142,7 @@
 
 		* TensorFlow 1
 		
-			* [\<Notebook> -> 87.8% Testing Accuracy](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/text_matching/snli/main/elmo_esim.ipynb)
+			* [\<Notebook> -> 88.1% Testing Accuracy](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/text_matching/snli/main/elmo_esim.ipynb)
 
 ---
 
