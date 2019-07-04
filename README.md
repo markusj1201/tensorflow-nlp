@@ -76,7 +76,7 @@
 
 			* [\<Notebook> Unigram Alignment -> 89.5 % Testing Accuracy](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/text_classification/imdb/main/attention_linear.ipynb)
 			
-			* [\<Notebook> N-gram Alignment -> 90.7 % Testing Accuracy](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/text_classification/imdb/main/attention_conv.ipynb)
+			* [\<Notebook> 5-gram Alignment -> 90.7 % Testing Accuracy](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/text_classification/imdb/main/attention_conv.ipynb)
 	
 	* Model: [Sliced RNN](https://arxiv.org/abs/1807.02291)
 
@@ -307,7 +307,9 @@
 	│   └── word.txt                  		# complete list of words in vocabulary
 	│	
 	└── main              
-		└── 
+		└── dmn_train.ipynb
+		└── dmn_serve.ipynb
+		└── attn_gru_cell.py
 ```
 
 * Task: [bAbI](https://research.fb.com/downloads/babi/)
