@@ -361,4 +361,4 @@
 	
 		* TensorFlow 1
 		
-			* [\<Notebook> -> 0.6625 Testing MAE](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/recommender/movielens/main/dmn.ipynb)
+			* [\<Notebook> -> 0.6625 Testing MAE](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/recommender/movielens/main/dnn.ipynb)
