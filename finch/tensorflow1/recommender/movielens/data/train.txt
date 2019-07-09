@@ -1,0 +1,100 @@
+index_1	is_male_False	age_0	job_id_10	movie_1193	Drama	one flew over e cuckoo nest 	5.0
+index_1	is_male_False	age_0	job_id_10	movie_661	Animation Children's Musical	james and e giant peach 	1.0
+index_1	is_male_False	age_0	job_id_10	movie_914	Musical Romance	my fair lady 	1.0
+index_1	is_male_False	age_0	job_id_10	movie_3408	Drama	erin brockovich 	3.0
+index_1	is_male_False	age_0	job_id_10	movie_2355	Animation Children's Comedy	bug life a 	5.0
+index_1	is_male_False	age_0	job_id_10	movie_1197	Action Adventure Comedy Romance	princess bride e 	1.0
+index_1	is_male_False	age_0	job_id_10	movie_1287	Action Adventure Drama	benhur 	5.0
+index_1	is_male_False	age_0	job_id_10	movie_2804	Comedy Drama	christmas story a 	5.0
+index_1	is_male_False	age_0	job_id_10	movie_594	Animation Children's Musical	snow white and e seven dwarfs 	3.0
+index_1	is_male_False	age_0	job_id_10	movie_919	Adventure Children's Drama Musical	wizard of oz e 	3.0
+index_1	is_male_False	age_0	job_id_10	movie_595	Animation Children's Musical	beauty and e beast 	5.0
+index_1	is_male_False	age_0	job_id_10	movie_938	Musical	gigi 	3.0
+index_1	is_male_False	age_0	job_id_10	movie_2398	Drama	miracle on 34 street 	3.0
+index_1	is_male_False	age_0	job_id_10	movie_2918	Comedy	ferris bueller day off 	3.0
+index_1	is_male_False	age_0	job_id_10	movie_2018	Animation Children's	bambi 	3.0
+index_1	is_male_False	age_0	job_id_10	movie_3105	Drama	awakenings 	5.0
+index_1	is_male_False	age_0	job_id_10	movie_2797	Comedy Fantasy	big 	3.0
+index_1	is_male_False	age_0	job_id_10	movie_2321	Comedy	pleasantville 	1.0
+index_1	is_male_False	age_0	job_id_10	movie_720	Animation	wallace  gromit e best of aardman animation 	1.0
+index_1	is_male_False	age_0	job_id_10	movie_1270	Comedy Sci-Fi	back to e future 	5.0
+index_1	is_male_False	age_0	job_id_10	movie_527	Drama War	schindler list 	5.0
+index_1	is_male_False	age_0	job_id_10	movie_2340	Romance	meet joe black 	1.0
+index_1	is_male_False	age_0	job_id_10	movie_48	Animation Children's Musical Romance	pocahontas 	5.0
+index_1	is_male_False	age_0	job_id_10	movie_1097	Children's Drama Fantasy Sci-Fi	et e extraterrestrial 	3.0
+index_1	is_male_False	age_0	job_id_10	movie_1721	Drama Romance	titanic 	3.0
+index_1	is_male_False	age_0	job_id_10	movie_1545	Drama	ponette 	3.0
+index_1	is_male_False	age_0	job_id_10	movie_745	Animation Comedy Thriller	close shave a 	1.0
+index_1	is_male_False	age_0	job_id_10	movie_2294	Animation Children's	antz 	3.0
+index_1	is_male_False	age_0	job_id_10	movie_3186	Drama	girl interrupted 	3.0
+index_1	is_male_False	age_0	job_id_10	movie_1566	Adventure Animation Children's Comedy Musical	hercules 	3.0
+index_1	is_male_False	age_0	job_id_10	movie_588	Animation Children's Comedy Musical	aladdin 	3.0
+index_1	is_male_False	age_0	job_id_10	movie_783	Animation Children's Musical	hunchback of notre dame e 	3.0
+index_1	is_male_False	age_0	job_id_10	movie_1836	Drama	last days of disco e 	5.0
+index_1	is_male_False	age_0	job_id_10	movie_1022	Animation Children's Musical	cinderella 	5.0
+index_1	is_male_False	age_0	job_id_10	movie_2762	Thriller	six sense e 	3.0
+index_1	is_male_False	age_0	job_id_10	movie_150	Drama	apollo 13 	5.0
+index_1	is_male_False	age_0	job_id_10	movie_1	Animation Children's Comedy	toy story 	5.0
+index_1	is_male_False	age_0	job_id_10	movie_1961	Drama	rain man 	5.0
+index_1	is_male_False	age_0	job_id_10	movie_1962	Drama	driving miss daisy 	3.0
+index_1	is_male_False	age_0	job_id_10	movie_260	Action Adventure Fantasy Sci-Fi	star wars episode iv  a new hope 	3.0
+index_1	is_male_False	age_0	job_id_10	movie_1028	Children's Comedy Musical	mary poppins 	5.0
+index_1	is_male_False	age_0	job_id_10	movie_1029	Animation Children's Musical	dumbo 	5.0
+index_1	is_male_False	age_0	job_id_10	movie_1207	Drama	to kill a mockingbird 	3.0
+index_1	is_male_False	age_0	job_id_10	movie_2028	Action Drama War	saving private ryan 	5.0
+index_1	is_male_False	age_0	job_id_10	movie_531	Children's Drama	secret garden e 	3.0
+index_1	is_male_False	age_0	job_id_10	movie_3114	Animation Children's Comedy	toy story 2 	3.0
+index_1	is_male_False	age_0	job_id_10	movie_608	Crime Drama Thriller	fargo 	3.0
+index_1	is_male_False	age_0	job_id_10	movie_1246	Drama	dead poets society 	3.0
+index_2	is_male_True	age_6	job_id_16	movie_1357	Drama Romance	shine 	5.0
+index_2	is_male_True	age_6	job_id_16	movie_3068	Drama	verdict e 	3.0
+index_2	is_male_True	age_6	job_id_16	movie_1537	Comedy	shall we dance? shall we dansu? 	3.0
+index_2	is_male_True	age_6	job_id_16	movie_647	Drama War	courage under fire 	1.0
+index_2	is_male_True	age_6	job_id_16	movie_2194	Action Crime Drama	untouchables e 	3.0
+index_2	is_male_True	age_6	job_id_16	movie_648	Action Adventure Mystery	mission impossible 	3.0
+index_2	is_male_True	age_6	job_id_16	movie_2268	Crime Drama	few good men a 	5.0
+index_2	is_male_True	age_6	job_id_16	movie_2628	Action Adventure Fantasy Sci-Fi	star wars episode i  e phantom menace 	1.0
+index_2	is_male_True	age_6	job_id_16	movie_1103	Drama	rebel wiout a cause 	1.0
+index_2	is_male_True	age_6	job_id_16	movie_2916	Action Adventure Sci-Fi Thriller	total recall 	1.0
+index_2	is_male_True	age_6	job_id_16	movie_3468	Drama	hustler e 	5.0
+index_2	is_male_True	age_6	job_id_16	movie_1210	Action Adventure Romance Sci-Fi War	star wars episode vi  return of e jedi 	3.0
+index_2	is_male_True	age_6	job_id_16	movie_1792	Action Thriller	us marshalls 	1.0
+index_2	is_male_True	age_6	job_id_16	movie_1687	Action Thriller	jackal e 	1.0
+index_2	is_male_True	age_6	job_id_16	movie_3578	Action Drama	gladiator 	5.0
+index_2	is_male_True	age_6	job_id_16	movie_3030	Comedy Drama Western	yojimbo 	3.0
+index_2	is_male_True	age_6	job_id_16	movie_1217	Drama War	ran 	1.0
+index_2	is_male_True	age_6	job_id_16	movie_3105	Drama	awakenings 	3.0
+index_2	is_male_True	age_6	job_id_16	movie_434	Action Adventure Crime	cliffhanger 	-1.0
+index_2	is_male_True	age_6	job_id_16	movie_2126	Action Crime Mystery Thriller	snake eyes 	1.0
+index_2	is_male_True	age_6	job_id_16	movie_3108	Comedy Drama Romance	fisher king e 	1.0
+index_2	is_male_True	age_6	job_id_16	movie_3035	Comedy Drama War	mister roberts 	3.0
+index_2	is_male_True	age_6	job_id_16	movie_1253	Drama Sci-Fi	day e ear stood still e 	1.0
+index_2	is_male_True	age_6	job_id_16	movie_1610	Action Thriller	hunt for red october e 	5.0
+index_2	is_male_True	age_6	job_id_16	movie_292	Action Drama Thriller	outbreak 	1.0
+index_2	is_male_True	age_6	job_id_16	movie_2236	Drama	simon birch 	5.0
+index_2	is_male_True	age_6	job_id_16	movie_902	Drama Romance	breakfast at tiffany 	-1.0
+index_2	is_male_True	age_6	job_id_16	movie_368	Action Comedy Western	maverick 	3.0
+index_2	is_male_True	age_6	job_id_16	movie_1259	Adventure Comedy Drama	stand by me 	5.0
+index_2	is_male_True	age_6	job_id_16	movie_3147	Drama Thriller	green mile e 	5.0
+index_2	is_male_True	age_6	job_id_16	movie_1293	Drama	gandhi 	5.0
+index_2	is_male_True	age_6	job_id_16	movie_1188	Comedy Romance	strictly ballroom 	3.0
+index_2	is_male_True	age_6	job_id_16	movie_3255	Comedy Drama	league of eir own a 	3.0
+index_2	is_male_True	age_6	job_id_16	movie_3256	Action Thriller	patriot games 	-1.0
+index_2	is_male_True	age_6	job_id_16	movie_3257	Action Drama Romance Thriller	bodyguard e 	1.0
+index_2	is_male_True	age_6	job_id_16	movie_110	Action Drama War	braveheart 	5.0
+index_2	is_male_True	age_6	job_id_16	movie_2278	Action Crime Thriller	ronin 	1.0
+index_2	is_male_True	age_6	job_id_16	movie_2490	Action Thriller	payback 	1.0
+index_2	is_male_True	age_6	job_id_16	movie_1834	Drama Thriller	spanish prisoner e 	3.0
+index_2	is_male_True	age_6	job_id_16	movie_589	Action Sci-Fi Thriller	terminator 2 judgment day 	3.0
+index_2	is_male_True	age_6	job_id_16	movie_3654	Action Drama War	guns of navarone e 	1.0
+index_2	is_male_True	age_6	job_id_16	movie_2852	Drama	soldier story a 	1.0
+index_2	is_male_True	age_6	job_id_16	movie_1945	Crime Drama	on e waterfront 	5.0
+index_2	is_male_True	age_6	job_id_16	movie_982	Drama	picnic 	3.0
+index_2	is_male_True	age_6	job_id_16	movie_1873	Drama	misérables les 	3.0
+index_2	is_male_True	age_6	job_id_16	movie_2858	Comedy Drama	american beauty 	3.0
+index_2	is_male_True	age_6	job_id_16	movie_1225	Drama	amadeus 	5.0
+index_2	is_male_True	age_6	job_id_16	movie_2028	Action Drama War	saving private ryan 	3.0
+index_2	is_male_True	age_6	job_id_16	movie_515	Drama	remains of e day e 	5.0
+index_2	is_male_True	age_6	job_id_16	movie_442	Action Sci-Fi	demolition man 	1.0
+index_2	is_male_True	age_6	job_id_16	movie_2312	Drama	children of a lesser god 	1.0
+index_2	is_male_True	age_6	job_id_16	movie_265	Drama Romance	like water for chocolate como agua para chocolate 	3.0
