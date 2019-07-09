@@ -14,6 +14,8 @@
 
 * [Question Answering（问题回答）](https://github.com/zhedongzheng/finch#question-answering)
 
+* [Recommender System（推荐系统）](https://github.com/zhedongzheng/finch#recommender-system)
+
 ---
 
 ## Text Classification
@@ -325,3 +327,38 @@
 			* [\<Notebook> -> 99.4% Testing Accuracy](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/question_answering/babi/main/dmn_train.ipynb)
 			
 			* [Inference](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/question_answering/babi/main/dmn_serve.ipynb)
+
+---
+
+## Recommender System
+
+<img src="https://github.com/PaddlePaddle/book/blob/develop/05.recommender_system/image/rec_regression_network.png" width='500'>
+
+```
+└── finch/tensorflow1/recommender/movielens
+	│
+	├── data
+	│   └── make_data.ipynb           		# run this to generate vocabulary
+	│
+	├── vocab
+	│   └── user_job.txt
+	│   └── user_id.txt
+	│   └── user_gender.txt
+	│   └── user_age.txt
+	│   └── movie_types.txt
+	│   └── movie_title.txt
+	│   └── movie_id.txt
+	│	
+	└── main              
+		└── dmn.ipynb
+```
+
+* Task: [Movielens 1M](https://grouplens.org/datasets/movielens/1m/)
+	
+	* [\<Notebook>: Make Vocabulary](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/recommender/movielens/data/make_data.ipynb)
+	
+	* Model: [Deep Neural Network](https://www.paddlepaddle.org.cn/documentation/docs/en/1.5/beginners_guide/basics/recommender_system/index_en.html)
+	
+		* TensorFlow 1
+		
+			* [\<Notebook> -> 0.6625 Testing MAE](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/recommender/movielens/main/dmn.ipynb)
