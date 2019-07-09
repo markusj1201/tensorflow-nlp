@@ -350,7 +350,7 @@
 	│   └── movie_id.txt
 	│	
 	└── main              
-		└── dnn.ipynb
+		└── dnn_xentropy.ipynb
 ```
 
 * Task: [Movielens 1M](https://grouplens.org/datasets/movielens/1m/)
@@ -363,4 +363,4 @@
 	
 		* TensorFlow 1
 		
-			* [\<Notebook> -> 0.6625 Testing MAE](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/recommender/movielens/main/dnn.ipynb)
+			* [\<Notebook> Cross Entropy Loss -> 0.6625 Testing MAE](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/recommender/movielens/main/dnn_xentropy.ipynb)
