@@ -197,7 +197,7 @@
 	
 		* TensorFlow 2
 
-			* [\<Notebook>](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/spoken_language_understanding/atis/main/transformer.ipynb)
+			* [\<Notebook> Transformer](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/spoken_language_understanding/atis/main/transformer.ipynb)
 			
 			  97.2% Intent Acc, % Slot F1, 95.6% Filtered Slot Acc on Testing Data
 
