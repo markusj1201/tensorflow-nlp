@@ -6,7 +6,9 @@
 
 * [Text Matching（文本匹配）](https://github.com/zhedongzheng/finch#text-matching)
 
-* [Spoken Language Understanding（对话理解）](https://github.com/zhedongzheng/finch#spoken-language-understanding)
+* Chatbot（对话机器人）
+
+	* [Spoken Language Understanding（对话理解）](https://github.com/zhedongzheng/finch#spoken-language-understanding)
 
 * [Semantic Parsing（语义解析）](https://github.com/zhedongzheng/finch#semantic-parsing)
 
@@ -185,11 +187,11 @@
 
 			* [\<Notebook> Bi-GRU](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/spoken_language_understanding/atis/main/bigru.ipynb) 
 			
-			  % Slot F1, 95.5% Filtered Slot Accuracy, 97.4% Intent Accuracy on Testing Data
+			  97.4% Intent Acc, % Slot F1, 95.5% Filtered Slot Acc on Testing Data
 			
 			* [\<Notebook> Bi-GRU + Self Attention](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/spoken_language_understanding/atis/main/bigru_self_attn.ipynb)
 
-			  % Slot F1, 95.6% Filtered Slot Accuracy, 97.4% Intent Accuracy on Testing Data
+			  97.4% Intent Accuracy, % Slot F1, 95.6% Filtered Slot Acc on Testing Data
 
 	* Model: [Transformer](https://arxiv.org/abs/1706.03762)
 	
@@ -197,7 +199,7 @@
 
 			* [\<Notebook>](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/spoken_language_understanding/atis/main/transformer.ipynb)
 			
-			  % Slot F1, 95.6% Filtered Slot Accuracy, 97.2% Intent Accuracy on Testing Data
+			  97.2% Intent Accuracy, % Slot F1, 95.6% Filtered Slot Acc on Testing Data
 
 ---
 
