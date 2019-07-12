@@ -191,7 +191,7 @@
 			
 			* [\<Notebook> Bi-GRU + Self Attention](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/spoken_language_understanding/atis/main/bigru_self_attn.ipynb)
 
-			  % Intent Acc, % Slot F1, % Filtered Slot Acc on Testing Data
+			  97.4% Intent Acc, 97.8% Slot F1, 95.6% Filtered Slot Acc on Testing Data
 
 	* Model: [Transformer](https://arxiv.org/abs/1706.03762)
 	
