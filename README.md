@@ -187,11 +187,11 @@
 
 			* [\<Notebook> Bi-GRU](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/spoken_language_understanding/atis/main/bigru.ipynb) 
 			
-			  % Filtered Intent F1, % Filtered Slot F1 on Testing Data
+			  97.8% Intent F1, 95.5% Slot F1 on Testing Data
 			
 			* [\<Notebook> Bi-GRU + Self Attention](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/spoken_language_understanding/atis/main/bigru_self_attn.ipynb)
 
-			  % Filtered Intent F1, % Filtered Slot F1 on Testing Data
+			  97.7% Intent F1, 95.8% Slot F1 on Testing Data
 
 	* Model: [Transformer](https://arxiv.org/abs/1706.03762)
 	
@@ -199,7 +199,7 @@
 
 			* [\<Notebook> Transformer](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/spoken_language_understanding/atis/main/transformer.ipynb)
 			
-			  % Filtered Intent F1, % Filtered Slot F1 on Testing Data
+			  97.5% Intent F1, 94.9% Slot F1 on Testing Data
 
 ---
 
