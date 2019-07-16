@@ -193,6 +193,12 @@
 
 			  97.7% Intent F1, 95.8% Slot F1 on Testing Data
 
+		* TensorFlow 1
+
+			* [\<Notebook> Bi-GRU + CRF](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/spoken_language_understanding/atis/main/bigru_crf.ipynb) 
+			
+			  97.2% Intent F1, 95.7% Slot F1 on Testing Data
+
 	* Model: [Transformer](https://arxiv.org/abs/1706.03762)
 	
 		* TensorFlow 2
