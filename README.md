@@ -188,10 +188,6 @@
 			* [\<Notebook> Bi-GRU](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/spoken_language_understanding/atis/main/bigru.ipynb) 
 			
 			  97.8% Intent F1, 95.5% Slot F1 on Testing Data
-			
-			* [\<Notebook> Bi-GRU + Self Attention](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/spoken_language_understanding/atis/main/bigru_self_attn.ipynb)
-
-			  97.7% Intent F1, 95.8% Slot F1 on Testing Data
 
 		* TensorFlow 1
 
@@ -206,6 +202,10 @@
 			* [\<Notebook> Transformer](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/spoken_language_understanding/atis/main/transformer.ipynb)
 			
 			  97.5% Intent F1, 94.9% Slot F1 on Testing Data
+		
+			* [\<Notebook> Bi-GRU + Transformer](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/spoken_language_understanding/atis/main/bigru_self_attn.ipynb)
+
+			  97.7% Intent F1, 95.8% Slot F1 on Testing Data
 			  
 	* Model: [ELMO Embedding](https://arxiv.org/abs/1802.05365)
 	
