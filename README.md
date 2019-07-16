@@ -214,6 +214,10 @@
 			* [\<Notebook> ELMO (the first LSTM hidden state) + Bi-GRU](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/spoken_language_understanding/atis/main/elmo_o1_bigru.ipynb) 
 			
 			  97.6% Intent F1, 96.2% Slot F1 on Testing Data
+			  
+			* [\<Notebook> ELMO (weighted sum of 3 layers) + Bi-GRU](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/spoken_language_understanding/atis/main/elmo_o3_bigru.ipynb) 
+			
+			  97.6% Intent F1, 96.1% Slot F1 on Testing Data
 
 ---
 
