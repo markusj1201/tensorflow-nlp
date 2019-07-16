@@ -198,6 +198,10 @@
 			* [\<Notebook> Bi-GRU + CRF](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/spoken_language_understanding/atis/main/bigru_crf.ipynb) 
 			
 			  97.2% Intent F1, 95.7% Slot F1 on Testing Data
+			  
+			* [\<Notebook> ELMO (First LSTM Outputs) + Bi-GRU](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/spoken_language_understanding/atis/main/elmo_o1_bigru.ipynb) 
+			
+			  97.6% Intent F1, 96.2% Slot F1 on Testing Data
 
 	* Model: [Transformer](https://arxiv.org/abs/1706.03762)
 	
