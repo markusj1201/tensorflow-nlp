@@ -259,14 +259,6 @@
 	
 		* [\<Text File>: Vocabulary Example](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/semantic_parsing/tree_slu/vocab/target.txt)
 
-	* Model: [Transformer](https://arxiv.org/abs/1706.03762)
-	
-		* TensorFlow 2
-			
-			* Transformer -> 71.3% Exact Match Accuracy on Testing Data
-			
-				[\<Notebook 1>](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/semantic_parsing/tree_slu/main/transformer_part1.ipynb) [\<Notebook 2>](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/semantic_parsing/tree_slu/main/transformer_part2.ipynb) [\<Notebook 3>](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/semantic_parsing/tree_slu/main/transformer_part3.ipynb)
-
 	* Model: [RNN Seq2Seq](https://arxiv.org/abs/1409.0473)
 	
 		* TensorFlow 2
@@ -274,6 +266,14 @@
 			* [\<Notebook> GRU](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/semantic_parsing/tree_slu/main/gru_seq2seq.ipynb) -> 72.9% Exact Match Accuracy on Testing Data
 			
 			* [\<Notebook> LSTM](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/semantic_parsing/tree_slu/main/lstm_seq2seq.ipynb) -> 72.2% Exact Match Accuracy on Testing Data
+
+	* Model: [Transformer](https://arxiv.org/abs/1706.03762)
+	
+		* TensorFlow 2
+			
+			* Transformer -> 71.3% Exact Match Accuracy on Testing Data
+			
+				[\<Notebook 1>](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/semantic_parsing/tree_slu/main/transformer_part1.ipynb) [\<Notebook 2>](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/semantic_parsing/tree_slu/main/transformer_part2.ipynb) [\<Notebook 3>](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/semantic_parsing/tree_slu/main/transformer_part3.ipynb)
 
 ---
 
