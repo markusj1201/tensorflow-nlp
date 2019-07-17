@@ -158,20 +158,21 @@
 └── finch/tensorflow2/spoken_language_understanding/atis
 	│
 	├── data
-	│   └── glove.840B.300d.txt       # pretrained embedding, download and put here
-	│   └── make_data.ipynb           # step 1. run this to generate vocab: word.txt, intent.txt, slot.txt 
-	│   └── atis.train.w-intent.iob   # incomplete sample, format <text, slot, intent>
-	│   └── atis.test.w-intent.iob    # incomplete sample, format <text, slot, intent>
+	│   └── glove.840B.300d.txt           # pretrained embedding, download and put here
+	│   └── make_data.ipynb               # step 1. run this to generate vocab: word.txt, intent.txt, slot.txt 
+	│   └── atis.train.w-intent.iob       # incomplete sample, format <text, slot, intent>
+	│   └── atis.test.w-intent.iob        # incomplete sample, format <text, slot, intent>
 	│
 	├── vocab
-	│   └── word.txt                  # list of words in vocabulary
-	│   └── intent.txt                # list of intents in vocabulary
-	│   └── slot.txt                  # list of slots in vocabulary
+	│   └── word.txt                      # list of words in vocabulary
+	│   └── intent.txt                    # list of intents in vocabulary
+	│   └── slot.txt                      # list of slots in vocabulary
 	│	
 	└── main              
-		└── bigru.ipynb           # step 2. train and evaluate model
-		└── bigru_self_attn.ipynb # step 2. train and evaluate model
-		└── transformer.ipynb     # step 2. train and evaluate model
+		└── bigru.ipynb               # step 2. train and evaluate model
+		└── bigru_self_attn.ipynb     # step 2. train and evaluate model
+		└── transformer.ipynb         # step 2. train and evaluate model
+		└── transformer_elu.ipynb     # step 2. train and evaluate model
 ```
 
 * Task: [ATIS](https://github.com/yvchen/JointSLU/tree/master/data)
@@ -203,6 +204,10 @@
 			* [\<Notebook> Transformer](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/spoken_language_understanding/atis/main/transformer.ipynb)
 			
 			  97.5% Intent F1, 94.9% Slot F1 on Testing Data
+		
+			* [\<Notebook> Transformer + ELU activation](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/spoken_language_understanding/atis/main/transformer_elu.ipynb)
+			
+			  97.2% Intent F1, 95.5% Slot F1 on Testing Data
 		
 			* [\<Notebook> Bi-GRU + Transformer](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/spoken_language_understanding/atis/main/bigru_self_attn.ipynb)
 
