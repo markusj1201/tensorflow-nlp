@@ -170,6 +170,7 @@
 	│	
 	└── main              
 		└── bigru.ipynb           # step 2. train and evaluate model
+		└── bigru_self_attn.ipynb # step 2. train and evaluate model
 		└── transformer.ipynb     # step 2. train and evaluate model
 ```
 
@@ -236,12 +237,13 @@
 	│   └── source.txt                	# list of words in vocabulary for source (of seq2seq)
 	│   └── target.txt                	# list of words in vocabulary for target (of seq2seq)
 	│	
-	└── main              
+	└── main
+		└── gru_seq2seq.ipynb           # step 2. train and evaluate model
+		└── lstm_seq2seq.ipynb          # step 2. train and evaluate model
 		└── transformer_part1.ipynb 	# step 2. train and evaluate model
 		└── transformer_part2.ipynb     # restore from part1 and continue training
 		└── transformer_part3.ipynb 	# restore from part2 and continue training
-		└── rnn_seq2seq_part1.ipynb     # step 2. train and evaluate model
-		└── rnn_seq2seq_part2.ipynb     # restore from part 1 and continue training
+		
 ```
 
 * Task: [Semantic Parsing for Task Oriented Dialog](https://aclweb.org/anthology/D18-1300)
