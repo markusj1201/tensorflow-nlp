@@ -395,6 +395,6 @@
 	
 		* TensorFlow 1
 		
-			* [\<Notebook> DNN + Cross Entropy Loss -> 0.6625 Testing MAE](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/recommender/movielens/main/dnn_xentropy.ipynb)
+			* [\<Notebook> DNN + Classification Loss -> Testing MAE](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/recommender/movielens/main/dnn_softmax.ipynb)
 			
-			* [\<Notebook> DNN + MSE Loss -> 0.6618 Testing MAE](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/recommender/movielens/main/dnn_mse.ipynb)
+			* [\<Notebook> DNN + Regression Loss -> 0.6618 Testing MAE](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/recommender/movielens/main/dnn_mse.ipynb)
