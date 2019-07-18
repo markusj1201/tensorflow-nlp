@@ -397,4 +397,4 @@
 		
 			* [\<Notebook> DNN + Regression Loss -> 0.6618 Testing MAE (Mean Absolute Error)](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/recommender/movielens/main/dnn_mse.ipynb)
 			
-			* [\<Notebook> DNN + Classification Loss -> Testing MAE](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/recommender/movielens/main/dnn_softmax.ipynb)
+			* [\<Notebook> DNN + Classification Loss -> 0.6320 Testing MAE](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/recommender/movielens/main/dnn_softmax.ipynb)
