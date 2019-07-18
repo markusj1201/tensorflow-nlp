@@ -381,7 +381,7 @@
 	│   └── movie_id.txt
 	│	
 	└── main              
-		└── dnn_xentropy.ipynb
+		└── dnn_softmax.ipynb
 		└── dnn_mse.ipynb
 ```
 
