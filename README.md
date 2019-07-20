@@ -268,6 +268,10 @@
 			* [\<Notebook> GRU](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/semantic_parsing/tree_slu/main/gru_seq2seq.ipynb) -> 72.9% Exact Match Accuracy on Testing Data
 			
 			* [\<Notebook> LSTM](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/semantic_parsing/tree_slu/main/lstm_seq2seq.ipynb) -> 72.2% Exact Match Accuracy on Testing Data
+			
+		* TensorFlow 1
+			
+			* [\<Notebook> GRU + ELMO + Beam Search](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/semantic_parsing/tree_slu/main/gru_seq2seq.ipynb) -> 73.8% Exact Match Accuracy on Testing Data
 
 	* Model: [Transformer](https://arxiv.org/abs/1706.03762)
 	
