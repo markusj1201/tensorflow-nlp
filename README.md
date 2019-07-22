@@ -142,13 +142,9 @@
 		
 			* [\<Notebook> ESIM -> 87.4% Testing Accuracy](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/text_matching/snli/main/esim_train.ipynb)
 			
-			* [Inference](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/text_matching/snli/main/esim_serve.ipynb)
-
-	* Model: ESIM + [ELMO Embedding](https://arxiv.org/abs/1802.05365)
-
-		* TensorFlow 1
+				* [Inference](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/text_matching/snli/main/esim_serve.ipynb)
 		
-			* [\<Notebook> ESIM + ELMO -> 88.1% Testing Accuracy](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/text_matching/snli/main/elmo_esim.ipynb)
+			* [\<Notebook> ESIM + ELMO Embedding -> 88.1% Testing Accuracy](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/text_matching/snli/main/elmo_esim.ipynb)
 
 ---
 
