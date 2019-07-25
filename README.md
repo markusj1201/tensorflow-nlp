@@ -132,6 +132,12 @@
 		
 			* [\<Notebook> DAM -> 85.3% Testing Accuracy](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/text_matching/snli/main/dam.ipynb)
 
+	* Model: [MatchPyramid](https://arxiv.org/abs/1602.06359)
+	
+		* TensorFlow 2
+		
+			* [\<Notebook> MatchPyramid -> 85.9% Testing Accuracy](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/text_matching/snli/main/pyramid.ipynb)
+
 	* Model: [ESIM](https://arxiv.org/abs/1609.06038)
 	
 		* TensorFlow 2
