@@ -403,10 +403,12 @@
 
 		* [\<Text File>: Data Example](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/recommender/movielens/data/train.txt)
 
-	* Model: [Deep Neural Network](https://www.paddlepaddle.org.cn/documentation/docs/en/1.5/beginners_guide/basics/recommender_system/index_en.html)
+	* Model: [Fusion](https://www.paddlepaddle.org.cn/documentation/docs/en/1.5/beginners_guide/basics/recommender_system/index_en.html)
 	
 		* TensorFlow 1
 		
-			* [\<Notebook> DNN + Regression Loss -> 0.6618 Testing MAE (Mean Absolute Error)](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/recommender/movielens/main/dnn_mse.ipynb)
+			 > MAE: Mean Absolute Error
+		
+			* [\<Notebook> Fusion + Regression Loss -> 0.6618 Testing MAE](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/recommender/movielens/main/dnn_mse.ipynb)
 			
-			* [\<Notebook> DNN + Classification Loss -> 0.6320 Testing MAE](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/recommender/movielens/main/dnn_softmax.ipynb)
+			* [\<Notebook> Fusion + Classification Loss -> 0.6320 Testing MAE](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/recommender/movielens/main/dnn_softmax.ipynb)
