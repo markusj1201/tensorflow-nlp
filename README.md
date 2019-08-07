@@ -318,6 +318,8 @@
 		
 	* Model: [DistMult](https://arxiv.org/abs/1412.6575) + [1-N Fast Evaluation](https://arxiv.org/abs/1707.01476)
 
+		 > MRR: Mean Reciprocal Rank
+
 		* TensorFlow 2
 
 			* [\<Notebook> DistMult -> 81.0% MRR on Testing Data](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/knowledge_graph_completion/wn18/main/distmult_1-N.ipynb)
