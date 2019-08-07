@@ -78,9 +78,9 @@
 
 		* TensorFlow 2
 
-			* [\<Notebook> Unigram Alignment -> 89.5 % Testing Accuracy](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/text_classification/imdb/main/attention_linear.ipynb)
+			* [\<Notebook> Unigram Attention -> 89.5 % Testing Accuracy](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/text_classification/imdb/main/attention_linear.ipynb)
 			
-			* [\<Notebook> 5-gram Alignment -> 90.7 % Testing Accuracy](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/text_classification/imdb/main/attention_conv.ipynb)
+			* [\<Notebook> 5-gram Attention -> 90.7 % Testing Accuracy](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/text_classification/imdb/main/attention_conv.ipynb)
 	
 	* Model: [Sliced RNN](https://arxiv.org/abs/1807.02291)
 
