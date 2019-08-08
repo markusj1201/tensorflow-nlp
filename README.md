@@ -144,7 +144,7 @@
 		
 			* [\<Notebook> MatchPyramid -> 85.9% Testing Accuracy](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/text_matching/snli/main/pyramid.ipynb)
 			
-			* [\<Notebook> MatchPyramid + Multiway Attention -> 86.6% Testing Accuracy](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/text_matching/snli/main/pyramid_multi_attn.ipynb)
+			* [\<Notebook> MatchPyramid + Multiway Attention -> 87.1% Testing Accuracy](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/text_matching/snli/main/pyramid_multi_attn.ipynb)
 
 	* Model: [ESIM](https://arxiv.org/abs/1609.06038)
 	
