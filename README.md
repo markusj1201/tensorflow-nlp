@@ -289,14 +289,6 @@
 			
 			* [\<Notebook> GRU + ELMO + Beam Search](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/semantic_parsing/tree_slu/main/gru_seq2seq.ipynb) -> 73.8% Exact Match Accuracy on Testing Data
 
-	* Model: [Transformer](https://arxiv.org/abs/1706.03762)
-	
-		* TensorFlow 2
-			
-			* Transformer -> 71.3% Exact Match Accuracy on Testing Data
-			
-				[\<Notebook 1>](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/semantic_parsing/tree_slu/main/transformer_part1.ipynb) [\<Notebook 2>](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/semantic_parsing/tree_slu/main/transformer_part2.ipynb) [\<Notebook 3>](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/semantic_parsing/tree_slu/main/transformer_part3.ipynb)
-
 ---
 
 ## Knowledge Graph Completion
