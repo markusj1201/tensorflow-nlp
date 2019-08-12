@@ -137,6 +137,8 @@
 		* TensorFlow 2
 		
 			* [\<Notebook> DAM -> 85.3% Testing Accuracy](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/text_matching/snli/main/dam.ipynb)
+			
+			 The accuracy of this implementation is higher than [UCL MR Group](http://isabelleaugenstein.github.io/papers/JTR_ACL_demo_paper.pdf) (84.6%)
 
 	* Model: [Match Pyramid](https://arxiv.org/abs/1602.06359)
 	
@@ -153,6 +155,8 @@
 		* TensorFlow 2
 		
 			* [\<Notebook> ESIM -> 87.4% Testing Accuracy](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/text_matching/snli/main/esim.ipynb)
+
+			 The accuracy of this implementation is sligntly higher than [UCL MR Group](http://isabelleaugenstein.github.io/papers/JTR_ACL_demo_paper.pdf) (87.2%)
 
 		* TensorFlow 1
 		
