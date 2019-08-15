@@ -255,18 +255,18 @@
 └── finch/tensorflow2/semantic_parsing/tree_slu
 	│
 	├── data
-	│   └── glove.840B.300d.txt     		# pretrained embedding, download and put here
-	│   └── make_data.ipynb           		# step 1. run this to generate vocab: word.txt, intent.txt, slot.txt 
-	│   └── train.tsv   		  		# incomplete sample, format <text, tokenized_text, tree>
-	│   └── test.tsv    		  		# incomplete sample, format <text, tokenized_text, tree>
+	│   └── glove.840B.300d.txt     	# pretrained embedding, download and put here
+	│   └── make_data.ipynb           	# step 1. run this to generate vocab: word.txt, intent.txt, slot.txt 
+	│   └── train.tsv   		  	# incomplete sample, format <text, tokenized_text, tree>
+	│   └── test.tsv    		  	# incomplete sample, format <text, tokenized_text, tree>
 	│
 	├── vocab
-	│   └── source.txt                		# list of words in vocabulary for source (of seq2seq)
-	│   └── target.txt                		# list of words in vocabulary for target (of seq2seq)
+	│   └── source.txt                	# list of words in vocabulary for source (of seq2seq)
+	│   └── target.txt                	# list of words in vocabulary for target (of seq2seq)
 	│	
 	└── main
-		└── gru_seq2seq.ipynb           	# step 2. train and evaluate model
-		└── lstm_seq2seq.ipynb          	# step 2. train and evaluate model
+		└── gru_seq2seq.ipynb           # step 2. train and evaluate model
+		└── lstm_seq2seq.ipynb          # step 2. train and evaluate model
 		
 ```
 
