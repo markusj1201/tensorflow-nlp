@@ -2,7 +2,7 @@
 
 #### Contents
 
-* Natural Language Processing (NLP)
+* Natural Language Processing (自然语言处理)
 
 	* [Text Classification（文本分类）](https://github.com/zhedongzheng/finch#text-classification)
 
@@ -18,7 +18,7 @@
 
 	* [Question Answering（问题回答）](https://github.com/zhedongzheng/finch#question-answering)
 
-	* [Recommender System（推荐系统）](https://github.com/zhedongzheng/finch#recommender-system)
+* [Recommender System（推荐系统）](https://github.com/zhedongzheng/finch#recommender-system)
 
 ---
 
