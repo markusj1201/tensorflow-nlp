@@ -68,7 +68,7 @@
 		
 			* [\<Notebook> TF + IDF + Logistic Regression -> 88.3% Testing Accuracy](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/sklearn/text_classification/imdb/tfidf_lr_binary_false.ipynb)
 			
-			* [\<Notebook> TF(binary) + IDF + Logistic Regression -> 88.8% Testing Accuracy](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/sklearn/text_classification/imdb/tfidf_lr_binary_true.ipynb)
+			* [\<Notebook> TF (binary) + IDF + Logistic Regression -> 88.8% Testing Accuracy](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/sklearn/text_classification/imdb/tfidf_lr_binary_true.ipynb)
 
 	* Model: [FastText](https://arxiv.org/abs/1607.01759)
 	
