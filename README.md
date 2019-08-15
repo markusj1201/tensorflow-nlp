@@ -289,7 +289,7 @@
 			
 		* TensorFlow 1
 			
-			* [\<Notebook> ELMO + GRU + Bahdanau Attention + Luong Attention + Beam Search](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/semantic_parsing/tree_slu/main/gru_seq2seq_multi_attn.ipynb) -> 74.0% Exact Match Accuracy on Testing Data
+			* [\<Notebook> ELMO + GRU + Bahdanau Attention + Luong Attention + Beam Search](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/semantic_parsing/tree_slu/main/gru_seq2seq_multi_attn.ipynb) -> 74.2% Exact Match Accuracy on Testing Data
 
 ---
 
