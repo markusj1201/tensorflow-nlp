@@ -2,21 +2,23 @@
 
 #### Contents
 
-* [Text Classification（文本分类）](https://github.com/zhedongzheng/finch#text-classification)
+* Natural Language Processing (NLP)
 
-* [Text Matching（文本匹配）](https://github.com/zhedongzheng/finch#text-matching)
+	* [Text Classification（文本分类）](https://github.com/zhedongzheng/finch#text-classification)
 
-* Chatbot（对话机器人）
+	* [Text Matching（文本匹配）](https://github.com/zhedongzheng/finch#text-matching)
 
-	* [Spoken Language Understanding（对话理解）](https://github.com/zhedongzheng/finch#spoken-language-understanding)
+	* Chatbot（对话机器人）
 
-* [Semantic Parsing（语义解析）](https://github.com/zhedongzheng/finch#semantic-parsing)
+		* [Spoken Language Understanding（对话理解）](https://github.com/zhedongzheng/finch#spoken-language-understanding)
 
-* [Knowledge Graph Completion（知识图谱补全）](https://github.com/zhedongzheng/finch#knowledge-graph-completion)
+	* [Semantic Parsing（语义解析）](https://github.com/zhedongzheng/finch#semantic-parsing)
 
-* [Question Answering（问题回答）](https://github.com/zhedongzheng/finch#question-answering)
+	* [Knowledge Graph Completion（知识图谱补全）](https://github.com/zhedongzheng/finch#knowledge-graph-completion)
 
-* [Recommender System（推荐系统）](https://github.com/zhedongzheng/finch#recommender-system)
+	* [Question Answering（问题回答）](https://github.com/zhedongzheng/finch#question-answering)
+
+	* [Recommender System（推荐系统）](https://github.com/zhedongzheng/finch#recommender-system)
 
 ---
 
@@ -287,7 +289,7 @@
 			
 		* TensorFlow 1
 			
-			* [\<Notebook> ELMO + GRU + Bahdanau Attention + Beam Search](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/semantic_parsing/tree_slu/main/gru_seq2seq.ipynb) -> 73.8% Exact Match Accuracy on Testing Data
+			* [\<Notebook> ELMO + GRU + Bahdanau Attention + Luong Attention + Beam Search](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/semantic_parsing/tree_slu/main/gru_seq2seq_multi_attn.ipynb) -> 74.0% Exact Match Accuracy on Testing Data
 
 ---
 
