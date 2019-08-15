@@ -2,7 +2,7 @@
 
 #### Contents
 
-* Natural Language Processing (自然语言处理)
+* Natural Language Processing（自然语言处理）
 
 	* [Text Classification（文本分类）](https://github.com/zhedongzheng/finch#text-classification)
 
@@ -14,9 +14,11 @@
 
 	* [Semantic Parsing（语义解析）](https://github.com/zhedongzheng/finch#semantic-parsing)
 
-	* [Knowledge Graph Completion（知识图谱补全）](https://github.com/zhedongzheng/finch#knowledge-graph-completion)
-
 	* [Question Answering（问题回答）](https://github.com/zhedongzheng/finch#question-answering)
+
+* Knowledge Graph（知识图谱）
+
+	* [Knowledge Graph Completion（知识图谱补全）](https://github.com/zhedongzheng/finch#knowledge-graph-completion)
 
 * [Recommender System（推荐系统）](https://github.com/zhedongzheng/finch#recommender-system)
 
@@ -60,13 +62,13 @@
 	
 		* PySpark
 		
-			* [\<Notebook> TF-IDF + Logistic Regression -> 88.2% Testing Accuracy](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/spark/text_classification/imdb/tfidf_lr.ipynb)
+			* [\<Notebook> TF + IDF + Logistic Regression -> 88.2% Testing Accuracy](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/spark/text_classification/imdb/tfidf_lr.ipynb)
 			
 		* Sklearn
 		
-			* [\<Notebook> TF-IDF + Logistic Regression -> 88.3% Testing Accuracy](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/sklearn/text_classification/imdb/tfidf_lr_binary_false.ipynb)
+			* [\<Notebook> TF + IDF + Logistic Regression -> 88.3% Testing Accuracy](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/sklearn/text_classification/imdb/tfidf_lr_binary_false.ipynb)
 			
-			* [\<Notebook> TF(binary)-IDF + Logistic Regression -> 88.8% Testing Accuracy](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/sklearn/text_classification/imdb/tfidf_lr_binary_true.ipynb)
+			* [\<Notebook> TF(binary) + IDF + Logistic Regression -> 88.8% Testing Accuracy](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/sklearn/text_classification/imdb/tfidf_lr_binary_true.ipynb)
 
 	* Model: [FastText](https://arxiv.org/abs/1607.01759)
 	
