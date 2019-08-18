@@ -15,6 +15,8 @@
 	* [Semantic Parsing（语义解析）](https://github.com/zhedongzheng/finch#semantic-parsing)
 
 	* [Question Answering（问题回答）](https://github.com/zhedongzheng/finch#question-answering)
+	
+		* bAbI
 
 * Knowledge Graph（知识图谱）
 
