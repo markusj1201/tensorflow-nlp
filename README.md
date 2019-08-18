@@ -16,7 +16,7 @@
 
 	* [Question Answering（问题回答）](https://github.com/zhedongzheng/finch#question-answering)
 	
-		* bAbI
+		* bAbI (long supporting facts)
 
 * Knowledge Graph（知识图谱）
 
