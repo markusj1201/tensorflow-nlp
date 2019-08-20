@@ -21,6 +21,8 @@
 * Knowledge Graph（知识图谱）
 
 	* [Knowledge Graph Completion（知识图谱补全）](https://github.com/zhedongzheng/finch#knowledge-graph-completion)
+	
+	* [Knowledge Graph Retrieval（知识图谱检索）](https://github.com/zhedongzheng/finch#knowledge-graph-retrieval)
 
 * [Recommender System（推荐系统）](https://github.com/zhedongzheng/finch#recommender-system)
 
@@ -344,6 +346,14 @@
 		* TensorFlow 2
 
 			* [\<Notebook> ComplEx -> 94.2% MRR on Testing Data](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/knowledge_graph_completion/wn18/main/complex_1-N.ipynb)
+
+---
+
+## Knowledge Graph Retrieval
+
+* Task: WN18
+
+	* [SPARQL](https://github.com/zhedongzheng/tensorflow-nlp/blob/master/finch/tensorflow2/knowledge_graph_completion/wn18/data/rdf_sparql_test.ipynb)
 
 ---
 
