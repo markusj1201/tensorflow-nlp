@@ -353,7 +353,7 @@
 
 * Task: WN18
 
-	* [SPARQL](https://github.com/zhedongzheng/tensorflow-nlp/blob/master/finch/tensorflow2/knowledge_graph_completion/wn18/data/rdf_sparql_test.ipynb)
+	* [SPARQL](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/knowledge_graph_completion/wn18/data/rdf_sparql_test.ipynb)
 
 ---
 
