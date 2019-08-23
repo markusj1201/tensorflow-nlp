@@ -11,6 +11,8 @@
 	* Chatbot（对话机器人）
 
 		* [Spoken Language Understanding（对话理解）](https://github.com/zhedongzheng/finch#spoken-language-understanding)
+		
+		* [Generative Dialog（生成式对话）](https://github.com/zhedongzheng/finch#generative-dialog)
 
 	* [Semantic Parsing（语义解析）](https://github.com/zhedongzheng/finch#semantic-parsing)
 
@@ -250,6 +252,20 @@
 			* [\<Notebook> ELMO (weighted sum of 3 layers) + Bi-GRU](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/spoken_language_understanding/atis/main/elmo_o3_bigru.ipynb) 
 			
 			  97.6% Intent F1, 96.1% Slot F1 on Testing Data
+
+---
+
+## Generative Dialog
+
+* Task: [A Chinese Dataset（小黄鸡语料）](https://github.com/candlewill/Dialog_Corpus)
+
+	* Model: [RNN Seq2Seq](https://arxiv.org/abs/1409.0473)
+
+		* TensorFlow 1
+			
+			* [\<Notebook> Training](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/free_chat/chinese/main/gru_seq2seq.ipynb) GRU + Bahdanau Attention + Luong Attention + Beam Search
+			
+			* [\<Notebook> Demo](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/free_chat/chinese/main/gru_seq2seq_demo.ipynb)
 
 ---
 
