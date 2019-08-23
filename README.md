@@ -280,7 +280,7 @@
 
 			  GRU + Bahdanau Attention + Luong Attention + Beam Search
 			
-			* [\<Notebook> Demo](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/free_chat/chinese/main/gru_seq2seq_demo.ipynb)
+			* [\<Notebook> Demo](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/free_chat/chinese/main/gru_seq2seq_serve.ipynb)
 
 ---
 
