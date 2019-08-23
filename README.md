@@ -8,11 +8,13 @@
 
 	* [Text Matching（文本匹配）](https://github.com/zhedongzheng/finch#text-matching)
 
+	* [Topic Modelling（主题模型）](https://github.com/zhedongzheng/finch#topic-modelling)
+
 	* Chatbot（对话机器人）
 
 		* [Spoken Language Understanding（对话理解）](https://github.com/zhedongzheng/finch#spoken-language-understanding)
 		
-		* [Generative Dialog（生成式对话）](https://github.com/zhedongzheng/tensorflow-nlp#generative-dialog)
+		* [Generative Dialog（生成式对话）](https://github.com/zhedongzheng/finch#generative-dialog)
 
 	* [Semantic Parsing（语义解析）](https://github.com/zhedongzheng/finch#semantic-parsing)
 
@@ -175,6 +177,17 @@
 				* [Inference](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/text_matching/snli/main/esim_serve.ipynb)
 		
 			* [\<Notebook> ESIM + ELMO Embedding -> 88.1% Testing Accuracy](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/text_matching/snli/main/elmo_esim.ipynb)
+
+---
+
+## Topic Modelling
+
+* Data: [Some Book Titles](https://github.com/zhedongzheng/tensorflow-nlp/blob/master/finch/spark/topic_modelling/book_titles/all_book_titles.txt)
+	* Model: TF-IDF + LDA
+	
+		* PySpark
+		
+			* [\<Notebook> TF + IDF + LDA](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/spark/topic_modelling/book_titles/lda.ipynb)
 
 ---
 
