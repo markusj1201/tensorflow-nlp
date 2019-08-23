@@ -12,7 +12,7 @@
 
 		* [Spoken Language Understanding（对话理解）](https://github.com/zhedongzheng/finch#spoken-language-understanding)
 		
-		* [Generative Dialog（生成式对话）](https://github.com/zhedongzheng/finch#generative-dialog)
+		* [Generative Dialog（生成式对话）](https://github.com/zhedongzheng/tensorflow-nlp#generative-dialog)
 
 	* [Semantic Parsing（语义解析）](https://github.com/zhedongzheng/finch#semantic-parsing)
 
@@ -263,7 +263,9 @@
 
 		* TensorFlow 1
 			
-			* [\<Notebook> Training](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/free_chat/chinese/main/gru_seq2seq.ipynb) GRU + Bahdanau Attention + Luong Attention + Beam Search
+			* [\<Notebook> Training](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/free_chat/chinese/main/gru_seq2seq.ipynb)
+
+			  GRU + Bahdanau Attention + Luong Attention + Beam Search
 			
 			* [\<Notebook> Demo](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/free_chat/chinese/main/gru_seq2seq_demo.ipynb)
 
