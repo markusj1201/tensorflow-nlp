@@ -178,6 +178,12 @@
 		
 			* [\<Notebook> ESIM + ELMO Embedding -> 88.1% Testing Accuracy](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/text_matching/snli/main/elmo_esim.ipynb)
 
+	* Model: [RE2](https://arxiv.org/abs/1908.00300)
+	
+		* TensorFlow 2
+		
+			* [\<Notebook> RE2 -> 87.7% Testing Accuracy](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/text_matching/snli/main/re2_birnn.ipynb)
+
 ---
 
 ## Topic Modelling
