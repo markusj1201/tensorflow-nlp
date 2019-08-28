@@ -197,7 +197,7 @@
 
 		* Sklearn + pyLDAvis
 		
-			* [\<Notebook> TF + IDF + LDA + Beautiful Visualization](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/sklearn/topic_modelling/book_titles/lda.ipynb)
+			* [\<Notebook> TF + IDF + LDA + Augmented Visualization](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/sklearn/topic_modelling/book_titles/lda.ipynb)
 
 ---
 
