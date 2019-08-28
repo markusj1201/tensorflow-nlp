@@ -195,6 +195,10 @@
 		
 			* [\<Notebook> TF + IDF + LDA](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/spark/topic_modelling/book_titles/lda.ipynb)
 
+		* Sklearn + pyLDAvis
+		
+			* [\<Notebook> TF + IDF + LDA + Beautiful Visualization](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/sklearn/topic_modelling/book_titles/lda.ipynb)
+
 ---
 
 ## Spoken Language Understanding
