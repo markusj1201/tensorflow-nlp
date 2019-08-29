@@ -21,6 +21,8 @@
 	* [Question Answering（问题回答）](https://github.com/zhedongzheng/finch#question-answering)
 	
 		* bAbI
+		
+	* [Text Preprocessing（文本预处理）](https://github.com/zhedongzheng/finch#text-preprocessing)
 
 * Knowledge Graph（知识图谱）
 
@@ -432,6 +434,16 @@
 			* [\<Notebook> DMN -> 99.4% Testing Accuracy](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/question_answering/babi/main/dmn_train.ipynb)
 			
 			* [Inference](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/question_answering/babi/main/dmn_serve.ipynb)
+
+---
+
+## Text Preprocessing
+
+* Slot Extraction
+
+	* Chinese
+
+		* [\<Notebook>: Regex](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/python/regex/zhcn_extract.ipynb)
 
 ---
 
