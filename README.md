@@ -34,13 +34,17 @@
 
 		* [Spoken Language Understanding（对话理解）](https://github.com/zhedongzheng/finch#spoken-language-understanding)
 		
-		* ATIS
+			* ATIS
 		
-			* Bi-GRU
+				* Bi-GRU
+				
+				* Bi-GRU + CRF
 		
-			* Transformer
+				* Transformer
+				
+				* Bi-GRU + Transformer
 		
-			* ELMO + Bi-GRU
+				* ELMO + Bi-GRU
 		
 		* [Generative Dialog（生成式对话）](https://github.com/zhedongzheng/finch#generative-dialog)
 
