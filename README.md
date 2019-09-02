@@ -5,8 +5,24 @@
 * Natural Language Processing（自然语言处理）
 
 	* [Text Classification（文本分类）](https://github.com/zhedongzheng/finch#text-classification)
+	
+		* TF-IDF + Logistic Regression
+		
+		* FastText
+		
+		* Attention
+		
+		* Sliced LSTM
 
 	* [Text Matching（文本匹配）](https://github.com/zhedongzheng/finch#text-matching)
+	
+		* DAM
+		
+		* MatchPyramid
+		
+		* ESIM
+		
+		* RE2
 
 	* [Topic Modelling（主题模型）](https://github.com/zhedongzheng/finch#topic-modelling)
 
@@ -14,13 +30,23 @@
 
 		* [Spoken Language Understanding（对话理解）](https://github.com/zhedongzheng/finch#spoken-language-understanding)
 		
+		* Bi-GRU
+		
+		* Transformer
+		
+		* ELMO + Bi-GRU
+		
 		* [Generative Dialog（生成式对话）](https://github.com/zhedongzheng/finch#generative-dialog)
 
 	* [Semantic Parsing（语义解析）](https://github.com/zhedongzheng/finch#semantic-parsing)
+	
+		* RNN Seq2Seq
 
 	* [Question Answering（问题回答）](https://github.com/zhedongzheng/finch#question-answering)
 	
 		* bAbI
+		
+			* Dynamic Memory Network
 		
 	* [Text Preprocessing（文本预处理）](https://github.com/zhedongzheng/finch#text-preprocessing)
 
@@ -28,9 +54,21 @@
 
 	* [Knowledge Graph Completion（知识图谱补全）](https://github.com/zhedongzheng/finch#knowledge-graph-completion)
 	
+		* DistMult
+		
+		* ComplEx
+	
 	* [Knowledge Graph Retrieval（知识图谱检索）](https://github.com/zhedongzheng/finch#knowledge-graph-retrieval)
+	
+		* SPARQL
 
 * [Recommender System（推荐系统）](https://github.com/zhedongzheng/finch#recommender-system)
+
+	* Fusion
+		
+		* Classification
+			
+		* Regression
 
 ---
 
