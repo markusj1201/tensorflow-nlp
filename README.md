@@ -69,6 +69,8 @@
 		* WN18
 	
 			* DistMult
+			
+			* TuckER
 		
 			* ComplEx
 	
@@ -437,7 +439,13 @@
 			* [\<Notebook> DistMult -> 79.2% MRR on Testing Data](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/knowledge_graph_completion/wn18/main/distmult_1-N_train.ipynb)
 
 			* [Inference](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/knowledge_graph_completion/wn18/main/distmult_1-N_serve.ipynb)
-			
+	
+	* Model: [TuckER](https://arxiv.org/abs/1901.09590)
+	
+		* TensorFlow 2
+		
+			* [\<Notebook> TuckER -> 94.2% MRR on Testing Data](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/knowledge_graph_completion/wn18/main/tucker_1-N.ipynb)
+	
 	* Model: [ComplEx](https://arxiv.org/abs/1606.06357) + [1-N Fast Evaluation](https://arxiv.org/abs/1707.01476)
 
 		* TensorFlow 2
