@@ -444,7 +444,7 @@
 	
 		* TensorFlow 2
 		
-			* [\<Notebook> TuckER -> 94.2% MRR on Testing Data](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/knowledge_graph_completion/wn18/main/tucker_1-N.ipynb)
+			* [\<Notebook> TuckER -> 87.6% MRR on Testing Data](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/knowledge_graph_completion/wn18/main/tucker_1-N.ipynb)
 	
 	* Model: [ComplEx](https://arxiv.org/abs/1606.06357) + [1-N Fast Evaluation](https://arxiv.org/abs/1707.01476)
 
