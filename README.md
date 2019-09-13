@@ -425,10 +425,12 @@
 	* [\<Notebook>: Make Vocabulary](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/knowledge_graph_completion/wn18/data/make_data.ipynb)
 	
 		* [\<Text File>: Vocabulary Example](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/knowledge_graph_completion/wn18/vocab/relation.txt)
-		
-	* Model: [DistMult](https://arxiv.org/abs/1412.6575) + [1-N Fast Evaluation](https://arxiv.org/abs/1707.01476)
+	
+	* We use [1-N Fast Evaluation](https://arxiv.org/abs/1707.01476) to largely accelerate evaluation process
 
 		 > MRR: Mean Reciprocal Rank
+
+	* Model: [DistMult](https://arxiv.org/abs/1412.6575)
 
 		* TensorFlow 2
 
@@ -446,7 +448,7 @@
 		
 			* [\<Notebook> TuckER -> 87.6% MRR on Testing Data](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/knowledge_graph_completion/wn18/main/tucker_1-N.ipynb)
 	
-	* Model: [ComplEx](https://arxiv.org/abs/1606.06357) + [1-N Fast Evaluation](https://arxiv.org/abs/1707.01476)
+	* Model: [ComplEx](https://arxiv.org/abs/1606.06357)
 
 		* TensorFlow 2
 
