@@ -336,7 +336,13 @@
 
 ## Generative Dialog
 
-* Task: [A Chinese Dataset（小黄鸡语料）](https://github.com/candlewill/Dialog_Corpus)
+* Task: Chinese Free Chat
+
+	* Data consists of two parts: 
+	
+		* [小黄鸡语料](https://github.com/candlewill/Dialog_Corpus)
+	
+		* [STC-3](http://coai.cs.tsinghua.edu.cn/hml/challenge/dataset_description/)
 
 	* Model: [RNN Seq2Seq](https://arxiv.org/abs/1409.0473)
 
@@ -344,7 +350,7 @@
 			
 			* [\<Notebook> Training](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/free_chat/chinese/main/gru_seq2seq.ipynb)
 
-			  GRU + Bahdanau Attention + Luong Attention + Beam Search
+			  GRU + Bahdanau Attention + Beam Search
 			
 			* [\<Notebook> Demo](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/free_chat/chinese/main/gru_seq2seq_serve.ipynb)
 
