@@ -74,11 +74,13 @@
 		
 			* ComplEx
 	
+	* [Knowledge Graph Construction（知识图谱构建）](https://github.com/zhedongzheng/finch#knowledge-graph-construction)
+			
+		* Neo4j
+	
 	* [Knowledge Graph Retrieval（知识图谱检索）](https://github.com/zhedongzheng/finch#knowledge-graph-retrieval)
 	
 		* SPARQL
-			
-		* Neo4j
 
 * [Recommender System（推荐系统）](https://github.com/zhedongzheng/finch#recommender-system)
 
@@ -464,15 +466,19 @@
 
 ---
 
-## Knowledge Graph Retrieval
-
-* SPARQL
-
-	* [WN18](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/knowledge_graph_completion/wn18/data/rdf_sparql_test.ipynb)
+## Knowledge Graph Construction
 	
 * Neo4j
 
 	* [Getting Started](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/neo4j/install_neo4j.ipynb)
+
+---
+
+## Knowledge Graph Retrieval
+
+* SPARQL
+
+	* [WN18 Example](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/knowledge_graph_completion/wn18/data/rdf_sparql_test.ipynb)
 
 ---
 
