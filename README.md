@@ -470,9 +470,9 @@
 	
 * Step 1. Download Data
 
-	* [Use Scrapy](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/scrapy/car.ipynb)
+	* [Use Scrapy](https://nbviewer.jupyter.org/github/zhedongzheng/tensorflow-nlp/blob/master/finch/scrapy/car.ipynb)
 	
-	* [Downloaded Data](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/scrapy/car.csv)
+	* [Downloaded Data](https://nbviewer.jupyter.org/github/zhedongzheng/tensorflow-nlp/blob/master/finch/scrapy/car.csv)
 
 * Neo4j
 
