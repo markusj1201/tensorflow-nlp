@@ -80,7 +80,7 @@
 	
 		* SPARQL
 		
-		* Neo4j Cypher
+		* Neo4j + Cypher
 
 * [Recommender System（推荐系统）](https://github.com/zhedongzheng/finch#recommender-system)
 
