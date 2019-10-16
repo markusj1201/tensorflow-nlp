@@ -468,6 +468,12 @@
 
 ## Knowledge Graph Construction
 	
+* Step 1. Download Data
+
+	* [Use Scrapy](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/scrapy/car.ipynb)
+	
+	* [Downloaded Data](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/scrapy/car.csv)
+
 * Neo4j
 
 	* [Getting Started](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/neo4j/install_neo4j.ipynb)
