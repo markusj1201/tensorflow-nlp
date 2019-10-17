@@ -467,12 +467,14 @@
 ---
 
 ## Knowledge Graph Construction
-	
-* Step 1. Data Scraping
 
-	* [Use Scrapy](https://nbviewer.jupyter.org/github/zhedongzheng/tensorflow-nlp/blob/master/finch/scrapy/car.ipynb)
+* A Minimal Project
+
+	* Step 1. Data Scraping
+
+		* [Use Scrapy](https://nbviewer.jupyter.org/github/zhedongzheng/tensorflow-nlp/blob/master/finch/scrapy/car.ipynb)
 	
-	* [Downloaded](https://github.com/zhedongzheng/tensorflow-nlp/blob/master/finch/scrapy/car.csv)
+		* [Downloaded](https://github.com/zhedongzheng/tensorflow-nlp/blob/master/finch/scrapy/car.csv)
 
 ---
 
