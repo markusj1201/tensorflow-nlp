@@ -60,7 +60,7 @@
 		
 			* Dynamic Memory Network
 		
-	* [Text Preprocessing（文本预处理）](https://github.com/zhedongzheng/finch#text-preprocessing)
+	* [Text Processing（文本处理）](https://github.com/zhedongzheng/finch#text-processing)
 
 * Knowledge Graph（知识图谱）
 	
@@ -527,7 +527,7 @@
 
 ---
 
-## Text Preprocessing
+## Text Processing
 
 * Word Extraction
 
