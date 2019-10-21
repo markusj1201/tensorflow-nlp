@@ -535,6 +535,12 @@
 
 		* [\<Notebook>: Regex](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/python/regex/zhcn_extract.ipynb)
 
+* Use Pretraining Language Model 
+
+	* Chinese
+
+		* [\<Notebook>: Bert](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/bert_zhcn/feature.ipynb)
+
 ---
 
 ## Recommender System
