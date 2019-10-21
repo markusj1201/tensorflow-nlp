@@ -541,6 +541,14 @@
 
 		* [\<Notebook>: Bert](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/bert_zhcn/feature.ipynb)
 
+* Word Segmentation
+
+	* Chinese
+	
+		* TensorFlow Op written by [applenob](https://github.com/applenob/tf_jieba)
+	
+			* [\<Notebook>](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/custom_op/tf_jieba.ipynb)
+
 ---
 
 ## Recommender System
