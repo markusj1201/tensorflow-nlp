@@ -529,13 +529,13 @@
 
 ## Text Preprocessing
 
-* Slot Extraction
+* Word Extraction
 
 	* Chinese
 
 		* [\<Notebook>: Regex](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/python/regex/zhcn_extract.ipynb)
 
-* Use Pretraining Language Model 
+* Text Vectorization 
 
 	* Chinese
 
