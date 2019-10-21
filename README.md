@@ -1,4 +1,4 @@
-* The code has been run on Google Colab which provides free GPU memory
+* These scripts have been run on Google Colab which provides free GPU memory
 
 #### Contents
 
@@ -545,7 +545,7 @@
 
 	* Chinese
 	
-		* TensorFlow Op written by [applenob](https://github.com/applenob/tf_jieba)
+		* Custom TensorFlow Op added by [applenob](https://github.com/applenob/tf_jieba)
 	
 			* [\<Notebook>](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/custom_op/tf_jieba.ipynb)
 
