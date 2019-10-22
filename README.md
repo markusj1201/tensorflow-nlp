@@ -61,6 +61,12 @@
 			* Dynamic Memory Network
 		
 	* [Text Processing（文本处理）](https://github.com/zhedongzheng/finch#text-processing)
+	
+		* Word Extraction
+	
+		* Text Vectorization
+	
+		* Word Segmentation
 
 * Knowledge Graph（知识图谱）
 	
