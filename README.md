@@ -60,7 +60,7 @@
 		
 			* Dynamic Memory Network
 		
-	* [Text Processing（文本处理）](https://github.com/zhedongzheng/finch#text-processing)
+	* [Text Transformation（文本变换）](https://github.com/zhedongzheng/finch#text-transformation)
 	
 		* Word Extraction
 	
@@ -533,7 +533,7 @@
 
 ---
 
-## Text Processing
+## Text Transformation
 
 * Word Extraction
 
