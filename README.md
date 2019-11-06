@@ -47,6 +47,7 @@
 				* ELMO + Bi-GRU
 		
 		* [Generative Dialog（生成式对话）](https://github.com/zhedongzheng/finch#generative-dialog)
+			* RNN Seq2Seq + Attention
 
 	* [Semantic Parsing（语义解析）](https://github.com/zhedongzheng/finch#semantic-parsing)
 	
@@ -539,13 +540,13 @@
 
 	* Chinese
 
-		* [\<Notebook>: Regex](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/python/regex/zhcn_extract.ipynb)
+		* [\<Notebook>: Regex Rule](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/python/regex/zhcn_extract.ipynb)
 
 * Text Vectorization 
 
 	* Chinese
 
-		* [\<Notebook>: Bert](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/bert_zhcn/feature.ipynb)
+		* [\<Notebook>: BERT](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/bert_zhcn/feature.ipynb)
 
 * Word Segmentation
 
