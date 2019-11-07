@@ -410,7 +410,7 @@
 			
 			* [\<Notebook>](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/semantic_parsing/tree_slu/main/gru_seq2seq_multi_attn_part1.ipynb) ELMO + GRU + Multi-Attention + Beam Search + Label Smoothing
 			
-			  -> 74.5% Exact Match Accuracy on Testing Data
+			  -> 74.6% Exact Match Accuracy on Testing Data
 
 ---
 
