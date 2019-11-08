@@ -307,13 +307,13 @@
 
 			* [\<Notebook> Bi-GRU](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/spoken_language_understanding/atis/main/bigru.ipynb) 
 			
-			  97.8% Intent F1, 95.5% Slot Micro-F1 on Testing Data
+			  97.8% Intent Micro-F1, 95.5% Slot Micro-F1 on Testing Data
 
 		* TensorFlow 1
 
 			* [\<Notebook> Bi-GRU + CRF](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/spoken_language_understanding/atis/main/bigru_crf.ipynb) 
 			
-			  97.2% Intent F1, 95.7% Slot Micro-F1 on Testing Data
+			  97.2% Intent Micro-F1, 95.7% Slot Micro-F1 on Testing Data
 	
 	* Model: [Transformer](https://arxiv.org/abs/1706.03762)
 	
@@ -321,15 +321,15 @@
 
 			* [\<Notebook> Transformer](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/spoken_language_understanding/atis/main/transformer.ipynb)
 			
-			  97.5% Intent F1, 94.9% Slot Micro-F1 on Testing Data
+			  97.5% Intent Micro-F1, 94.9% Slot Micro-F1 on Testing Data
 		
 			* [\<Notebook> Transformer + ELU activation](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/spoken_language_understanding/atis/main/transformer_elu.ipynb)
 			
-			  97.2% Intent F1, 95.5% Slot Micro-F1 on Testing Data
+			  97.2% Intent Micro-F1, 95.5% Slot Micro-F1 on Testing Data
 		
 			* [\<Notebook> Bi-GRU + Transformer](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/spoken_language_understanding/atis/main/bigru_self_attn.ipynb)
 
-			  97.7% Intent F1, 95.8% Slot Micro-F1 on Testing Data
+			  97.7% Intent Micro-F1, 95.8% Slot Micro-F1 on Testing Data
 			  
 	* Model: [ELMO Embedding](https://arxiv.org/abs/1802.05365)
 	
@@ -337,11 +337,11 @@
 
 			* [\<Notebook> ELMO (the first LSTM hidden state) + Bi-GRU](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/spoken_language_understanding/atis/main/elmo_o1_bigru.ipynb) 
 			
-			  97.6% Intent F1, 96.2% Slot Micro-F1 on Testing Data
+			  97.6% Intent Micro-F1, 96.2% Slot Micro-F1 on Testing Data
 			  
 			* [\<Notebook> ELMO (weighted sum of 3 layers) + Bi-GRU](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/spoken_language_understanding/atis/main/elmo_o3_bigru.ipynb) 
 			
-			  97.6% Intent F1, 96.1% Slot Micro-F1 on Testing Data
+			  97.6% Intent Micro-F1, 96.1% Slot Micro-F1 on Testing Data
 
 ---
 
