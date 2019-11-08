@@ -71,6 +71,8 @@
 
 * Knowledge Graph（知识图谱）
 	
+	* [Knowledge Graph Construction（知识图谱构建）](https://github.com/zhedongzheng/finch#knowledge-graph-construction)
+	
 	* [Knowledge Graph Completion（知识图谱补全）](https://github.com/zhedongzheng/finch#knowledge-graph-completion)
 	
 		* WN18
@@ -80,14 +82,6 @@
 			* TuckER
 		
 			* ComplEx
-	
-	* [Knowledge Graph Construction（知识图谱构建）](https://github.com/zhedongzheng/finch#knowledge-graph-construction)
-	
-	* [Knowledge Graph Retrieval（知识图谱检索）](https://github.com/zhedongzheng/finch#knowledge-graph-retrieval)
-	
-		* SPARQL
-		
-		* Neo4j + Cypher
 
 * [Recommender System（推荐系统）](https://github.com/zhedongzheng/finch#recommender-system)
 
@@ -482,10 +476,6 @@
 	* [Use Scrapy](https://nbviewer.jupyter.org/github/zhedongzheng/tensorflow-nlp/blob/master/finch/scrapy/car.ipynb)
 
 	* [Downloaded](https://github.com/zhedongzheng/tensorflow-nlp/blob/master/finch/scrapy/car.csv)
-
----
-
-## Knowledge Graph Retrieval
 
 * SPARQL
 
