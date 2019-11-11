@@ -243,6 +243,8 @@
 
 			* [\<Notebook> 3-layer RE2 -> 88.0% Testing Accuracy](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/text_matching/snli/main/re2_3_birnn.ipynb)
 
+			* [\<Notebook> 3-layer RE2 + Label Smoothing -> 88.2% Testing Accuracy](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/text_matching/snli/main/re2_3_birnn_label_smooth.ipynb)
+
 ---
 
 ## Topic Modelling
