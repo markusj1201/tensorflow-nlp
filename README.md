@@ -351,13 +351,13 @@
 	
 		* [STC-3](http://coai.cs.tsinghua.edu.cn/hml/challenge/dataset_description/)
 
-	* Model: [RNN Seq2Seq](https://arxiv.org/abs/1409.0473)
+	* Model: [RNN Seq2Seq + Attention](https://arxiv.org/abs/1409.0473)
 
 		* TensorFlow 1
 			
 			* [\<Notebook> Training](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/free_chat/chinese/main/gru_seq2seq.ipynb)
 
-			  GRU + Bahdanau Attention + Beam Search
+			  GRU + Attention + Beam Search
 			
 			* [\<Notebook> Demo](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/free_chat/chinese/main/gru_seq2seq_small_predict.ipynb)
 			
@@ -394,17 +394,11 @@
 	
 		* [\<Text File>: Vocabulary Example](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/semantic_parsing/tree_slu/vocab/target.txt)
 
-	* Model: [RNN Seq2Seq](https://arxiv.org/abs/1409.0473)
-	
-		* TensorFlow 2
-			
-			* [\<Notebook>](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/semantic_parsing/tree_slu/main/gru_seq2seq.ipynb) GRU + Bahdanau Attention -> 72.9% Exact Match Accuracy on Testing Data
-			
-			* [\<Notebook>](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow2/semantic_parsing/tree_slu/main/lstm_seq2seq.ipynb) LSTM + Bahdanau Attention -> 72.2% Exact Match Accuracy on Testing Data
+	* Model: [RNN Seq2Seq + Attention](https://arxiv.org/abs/1409.0473)
 			
 		* TensorFlow 1
 			
-			* [\<Notebook>](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/semantic_parsing/tree_slu/main/gru_seq2seq_multi_attn_part1.ipynb) ELMO + GRU + Multi-Attention + Beam Search + Label Smoothing
+			* [\<Notebook>](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/semantic_parsing/tree_slu/main/lstm_seq2seq_multi_attn.ipynb) ELMO + LSTM + Attention + Beam Search + Label Smoothing
 			
 			  -> 74.6% Exact Match Accuracy on Testing Data
 
