@@ -73,7 +73,7 @@
 	
 	* [Knowledge Graph Construction（知识图谱构建）](https://github.com/zhedongzheng/finch#knowledge-graph-construction)
 	
-	* [Knowledge Graph Completion（知识图谱补全）](https://github.com/zhedongzheng/finch#knowledge-graph-completion)
+	* [Knowledge Graph Inference（知识图谱推理）](https://github.com/zhedongzheng/finch#knowledge-graph-inference)
 	
 		* WN18
 	
@@ -410,7 +410,7 @@
 
 ---
 
-## Knowledge Graph Completion
+## Knowledge Graph Inference
 
 ```
 └── finch/tensorflow2/knowledge_graph_completion/wn18
