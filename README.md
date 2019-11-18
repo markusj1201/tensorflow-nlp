@@ -405,6 +405,14 @@
 			* [\<Notebook>](https://nbviewer.jupyter.org/github/zhedongzheng/tensorflow-nlp/blob/master/finch/tensorflow1/semantic_parsing/tree_slu/main/lstm_seq2seq_multi_attn.ipynb) ELMO + LSTM + Attention + Beam Search + Label Smoothing ->
 			
 			  74.8% Exact Match Accuracy on Testing Data
+			  
+	* Model: [Transformer](https://arxiv.org/abs/1706.03762)
+	
+		* TensorFlow 1
+			
+			* [\<Notebook>](https://nbviewer.jupyter.org/github/zhedongzheng/tensorflow-nlp/blob/master/finch/tensorflow1/semantic_parsing/tree_slu/main/lstm_transformer.ipynb) ELMO + Transformer + Beam Search + Label Smoothing ->
+			
+			  73.3% Exact Match Accuracy on Testing Data
 
 ---
 
