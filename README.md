@@ -54,6 +54,8 @@
 		* Semantic Parsing for Task Oriented Dialog
 	
 			* RNN Seq2Seq + Attention
+			
+			* Transformer
 
 	* [Question Answering（问题回答）](https://github.com/zhedongzheng/finch#question-answering)
 	
