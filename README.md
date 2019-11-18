@@ -410,7 +410,7 @@
 			  
 	* Model: [Transformer](https://arxiv.org/abs/1706.03762)
 	
-		* TensorFlow 1
+		* TensorFlow 1 + [Texar](https://github.com/asyml/texar) 
 			
 			* [\<Notebook>](https://nbviewer.jupyter.org/github/zhedongzheng/tensorflow-nlp/blob/master/finch/tensorflow1/semantic_parsing/tree_slu/main/lstm_transformer.ipynb) ELMO + Transformer + Beam Search + Label Smoothing ->
 			
