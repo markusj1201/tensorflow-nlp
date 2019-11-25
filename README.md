@@ -372,9 +372,11 @@
 
 	* Model: [Transformer](https://arxiv.org/abs/1706.03762)
 
-		* TensorFlow 1
+		* TensorFlow 1 + [Texar](https://github.com/asyml/texar)
 			
-			* [\<Notebook> Training](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/free_chat/chinese/main/transformer_train.ipynb) &nbsp; Transformer + Beam Search -> 11.74 Perplexity & 10.3 BLEU
+			* [\<Notebook> Training](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/free_chat/chinese/main/transformer_train.ipynb)
+			
+				Transformer + Beam Search -> 11.74 Perplexity & 10.3 BLEU
 			
 			* [\<Notebook> Export](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/free_chat/chinese/main/transformer_export.ipynb)
 			
