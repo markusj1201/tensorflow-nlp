@@ -350,6 +350,27 @@
 
 ## Generative Dialog
 
+```
+└── finch/tensorflow1/free_chat/chinese
+	│
+	├── data
+	│   └── make_data.ipynb           	# step 1. run this to generate vocab {char.txt} and data {reduce.txt & core.txt} 
+	│   └── reduced.txt     		# public corpus collected from the internet, after cleaning (large, around 200k)
+	│   └── core.txt   		  	# private human labelled corpus (small, around 100)
+	│
+	├── vocab
+	│   └── char.txt                	# list of chars in vocabulary for chinese
+	│	
+	└── main
+		└── lstm_seq2seq_train.ipynb    # step 2. train and evaluate model
+		└── lstm_seq2seq_export.ipynb   # step 3. export trained tf model
+		└── lstm_seq2seq_predict.ipynb  # step 4. end-to-end inference
+		└── transformer_train.ipynb     # step 2. train and evaluate model
+		└── transformer_export.ipynb    # step 3. export trained tf model
+		└── transformer_predict.ipynb   # step 4. end-to-end inference
+		
+```
+
 * Task: Chinese Free Chat
 
 	* Data consists of two parts: 
@@ -364,7 +385,9 @@
 
 		* TensorFlow 1
 			
-			* [\<Notebook> Training](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/free_chat/chinese/main/gru_seq2seq.ipynb) &nbsp; GRU + Attention + Beam Search
+			* [\<Notebook> Training](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/free_chat/chinese/main/gru_seq2seq.ipynb)
+			
+				GRU + Attention + Beam Search
 			
 			* [\<Notebook> Demo](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/free_chat/chinese/main/gru_seq2seq_predict.ipynb)
 			
@@ -387,7 +410,7 @@
 ## Semantic Parsing
 
 ```
-└── finch/tensorflow2/semantic_parsing/tree_slu
+└── finch/tensorflow1/semantic_parsing/tree_slu
 	│
 	├── data
 	│   └── glove.840B.300d.txt     	# pretrained embedding, download and put here
@@ -400,8 +423,8 @@
 	│   └── target.txt                	# list of words in vocabulary for target (of seq2seq)
 	│	
 	└── main
-		└── gru_seq2seq.ipynb           # step 2. train and evaluate model
-		└── lstm_seq2seq.ipynb          # step 2. train and evaluate model
+		└── lstm_transformer.ipynb           # step 2. train and evaluate model
+		└── lstm_seq2seq_multi_attn.ipynb    # step 2. train and evaluate model
 		
 ```
 
