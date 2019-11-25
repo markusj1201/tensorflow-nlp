@@ -358,7 +358,7 @@
 	
 		* [STC-3](http://coai.cs.tsinghua.edu.cn/hml/challenge/dataset_description/)
 
-	* [\<Notebook>: Make Data](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/free_chat/chinese/data/make_data.ipynb)
+	* [\<Notebook>: Make Data & Vocabulary](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/free_chat/chinese/data/make_data.ipynb)
 
 	* Model: [RNN Seq2Seq + Attention](https://arxiv.org/abs/1409.0473)
 
