@@ -47,7 +47,10 @@
 				* ELMO + Bi-GRU
 		
 		* [Generative Dialog（生成式对话）](https://github.com/zhedongzheng/finch#generative-dialog)
+		
 			* RNN Seq2Seq + Attention
+			
+			* Transformer
 
 	* [Semantic Parsing（语义解析）](https://github.com/zhedongzheng/finch#semantic-parsing)
 	
@@ -355,6 +358,8 @@
 	
 		* [STC-3](http://coai.cs.tsinghua.edu.cn/hml/challenge/dataset_description/)
 
+	* [\<Notebook>: Make Data](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/free_chat/chinese/data/make_data.ipynb)
+
 	* Model: [RNN Seq2Seq + Attention](https://arxiv.org/abs/1409.0473)
 
 		* TensorFlow 1
@@ -364,6 +369,16 @@
 			* [\<Notebook> Demo](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/free_chat/chinese/main/gru_seq2seq_predict.ipynb)
 			
 			* [\<Notebook> Serving](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/free_chat/chinese/main/gru_seq2seq_serving.ipynb)
+
+* Model: [Transformer](https://arxiv.org/abs/1706.03762)
+
+		* TensorFlow 1
+			
+			* [\<Notebook> Training](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/free_chat/chinese/main/transformer_train.ipynb) &nbsp; Transformer + Beam Search -> 11.74 Perplexity & 10.3 BLEU
+			
+			* [\<Notebook> Export](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/free_chat/chinese/main/transformer_export.ipynb)
+			
+			* [\<Notebook> Inference](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/free_chat/chinese/main/transformer_predict.ipynb)
 
 ---
 
