@@ -370,7 +370,7 @@
 			
 			* [\<Notebook> Serving](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/free_chat/chinese/main/gru_seq2seq_serving.ipynb)
 
-* Model: [Transformer](https://arxiv.org/abs/1706.03762)
+	* Model: [Transformer](https://arxiv.org/abs/1706.03762)
 
 		* TensorFlow 1
 			
