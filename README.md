@@ -389,13 +389,13 @@
 
 		* TensorFlow 1
 			
-			* [\<Notebook> Training](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/free_chat/chinese/main/gru_seq2seq.ipynb)
+			* [\<Notebook> Training](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/free_chat/chinese/main/lstm_seq2seq_train.ipynb)
 			
-				GRU + Attention + Beam Search
+				LSTM + Attention + Beam Search -> 7.317 Perplexity & 23.3 BLEU
 			
-			* [\<Notebook> Demo](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/free_chat/chinese/main/gru_seq2seq_predict.ipynb)
+			* [\<Notebook> Export](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/free_chat/chinese/main/lstm_seq2seq_export.ipynb)
 			
-			* [\<Notebook> Serving](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/free_chat/chinese/main/gru_seq2seq_serving.ipynb)
+			* [\<Notebook> Inference](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/free_chat/chinese/main/lstm_seq2seq_predict.ipynb)
 
 	* Model: [Transformer](https://arxiv.org/abs/1706.03762)
 
