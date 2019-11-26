@@ -379,9 +379,9 @@
 	
 		* [STC-3](http://coai.cs.tsinghua.edu.cn/hml/challenge/dataset_description/)
 
-	* [\<Text File>: Data Example of Corpus collected from the Internet](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/free_chat/chinese/data/reduced.txt)
+	* [\<Text File>: Data Example of Corpus collected from the Internet](https://github.com/zhedongzheng/tensorflow-nlp/blob/master/finch/tensorflow1/free_chat/chinese/data/reduced.txt)
 
-	* [\<Text File>: Data Example of Corpus labelled by Human](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/free_chat/chinese/data/core.txt)
+	* [\<Text File>: Data Example of Corpus labelled by Human](https://github.com/zhedongzheng/tensorflow-nlp/blob/master/finch/tensorflow1/free_chat/chinese/data/core.txt)
 
 	* [\<Notebook>: Make Data & Vocabulary](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/free_chat/chinese/data/make_data.ipynb)
 
