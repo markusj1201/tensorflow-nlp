@@ -408,6 +408,8 @@
 			* [\<Notebook> Export](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/free_chat/chinese/main/transformer_export.ipynb)
 			
 			* [\<Notebook> Inference](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/free_chat/chinese/main/transformer_predict.ipynb)
+			
+	* [\<Notebook> TF Serving](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/free_chat/chinese/main/gru_seq2seq_serving.ipynb)
 
 ---
 
