@@ -372,18 +372,18 @@
 ```
 
 * Task: Chinese Free Chat
+	* Data
+		* Public data consists of two parts: 
 
-	* Data consists of two parts: 
-	
-		* [小黄鸡语料](https://github.com/candlewill/Dialog_Corpus)
-	
-		* [STC-3](http://coai.cs.tsinghua.edu.cn/hml/challenge/dataset_description/)
+			* [小黄鸡语料](https://github.com/candlewill/Dialog_Corpus)
 
-	* [\<Text File>: Data Example of Corpus collected from the Internet](https://github.com/zhedongzheng/tensorflow-nlp/blob/master/finch/tensorflow1/free_chat/chinese/data/reduced.txt)
+			* [STC-3](http://coai.cs.tsinghua.edu.cn/hml/challenge/dataset_description/)
 
-	* [\<Text File>: Data Example of Corpus labelled by Human](https://github.com/zhedongzheng/tensorflow-nlp/blob/master/finch/tensorflow1/free_chat/chinese/data/core.txt)
+		* [\<Text File>: Data Example of Corpus collected from the Internet](https://github.com/zhedongzheng/tensorflow-nlp/blob/master/finch/tensorflow1/free_chat/chinese/data/reduced.txt)
 
-	* [\<Notebook>: Make Data & Vocabulary](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/free_chat/chinese/data/make_data.ipynb)
+		* [\<Text File>: Data Example of Corpus labelled by Human](https://github.com/zhedongzheng/tensorflow-nlp/blob/master/finch/tensorflow1/free_chat/chinese/data/core.txt)
+
+		* [\<Notebook>: Make Data & Vocabulary](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/free_chat/chinese/data/make_data.ipynb)
 
 	* Model: [RNN Seq2Seq + Attention](https://arxiv.org/abs/1409.0473)
 
