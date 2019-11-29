@@ -56,7 +56,7 @@
 
 		* Multi-turn (多轮对话)
 		
-			* [Multi-turn Dialogue ReWriting（多轮对话改写）](https://github.com/zhedongzheng/finch#multi-turn-dialogue-rewriting)
+			* [Multi-turn Dialogue Rewriting（多轮对话改写）](https://github.com/zhedongzheng/finch#multi-turn-dialogue-rewriting)
 
 				* RNN Seq2Seq + Attention + Dynamic Memory
 
@@ -656,7 +656,7 @@
 
 ---
 
-## Multi-turn Dialogue ReWriting
+## Multi-turn Dialogue Rewriting
 
 * Task: Chinese Multi-turn Dialogue Rewriting
 
