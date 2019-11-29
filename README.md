@@ -666,4 +666,8 @@
 	
 		* TensorFlow 1
 		
+			* [\<Notebook> LSTM + Attention + Memory + Beam Search -> 79.29 BLEU](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/multi_turn_rewrite/chinese/main/baseline_lstm.ipynb)
+
+			
+		
 			
