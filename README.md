@@ -56,7 +56,7 @@
 
 		* Multi-turn (多轮对话)
 		
-			* [Multi-turn Dialogue ReWriting（多伦对话改写）](https://github.com/zhedongzheng/finch#multi-turn-dialogue-rewriting)
+			* [Multi-turn Dialogue ReWriting（多轮对话改写）](https://github.com/zhedongzheng/finch#multi-turn-dialogue-rewriting)
 
 	* [Semantic Parsing（语义解析）](https://github.com/zhedongzheng/finch#semantic-parsing)
 	
@@ -656,3 +656,12 @@
 
 ## Multi-turn Dialogue ReWriting
 
+* Task: Chinese Multi-turn Dialogue Rewriting
+
+	* [\<Text File>: Data](https://github.com/chin-gyou/dialogue-utterance-rewriter/blob/master/corpus.txt)
+	
+	* Model: RNN
+	
+		* TensorFlow 1
+		
+			
