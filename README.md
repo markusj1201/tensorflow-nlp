@@ -658,8 +658,6 @@
 
 ## Multi-turn Dialogue Rewriting
 
-* Task: Chinese Multi-turn Dialogue Rewriting
-
 ```
 └── finch/tensorflow1/multi_turn_rewrite/chinese/
 	│
@@ -676,6 +674,8 @@
 		└── baseline_lstm_export.ipynb
 		└── baseline_lstm_predict.ipynb
 ```
+
+* Task: Chinese Multi-turn Dialogue Rewriting
 
 	* [\<Text File>: Data](https://github.com/chin-gyou/dialogue-utterance-rewriter/blob/master/corpus.txt)
 	
