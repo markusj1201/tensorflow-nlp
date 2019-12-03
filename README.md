@@ -660,6 +660,23 @@
 
 * Task: Chinese Multi-turn Dialogue Rewriting
 
+```
+└── finch/tensorflow1/multi_turn_rewrite/chinese/
+	│
+	├── data
+	│   └── make_data.ipynb         # run this to generate vocab, split train & test data, make pretrained embedding
+	│
+	├── vocab
+	│   └── cc.zh.300.vec		# fastText pretrained embedding downloaded from external
+	│   └── char.npy		# chinese characters and their embedding values (300 dim)	
+	│   └── char.txt		# list of chinese characters used in this project 
+	│	
+	└── main              
+		└── baseline_lstm_train.ipynb
+		└── baseline_lstm_export.ipynb
+		└── baseline_lstm_predict.ipynb
+```
+
 	* [\<Text File>: Data](https://github.com/chin-gyou/dialogue-utterance-rewriter/blob/master/corpus.txt)
 	
 	* [\<Notebook>: Make Data & Vocabulary & Pretrained Embedding](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/multi_turn_rewrite/chinese/data/make_data.ipynb)
