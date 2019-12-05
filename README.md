@@ -411,7 +411,7 @@
 			
 			* [\<Notebook> Training](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/free_chat/chinese/main/transformer_train.ipynb)
 			
-				Transformer + Beam Search -> 11.74 Perplexity & 10.3 BLEU
+				Transformer + Beam Search -> 18.026 Perplexity & 9.5 BLEU
 			
 			* [\<Notebook> Export](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/free_chat/chinese/main/transformer_export.ipynb)
 			
