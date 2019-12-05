@@ -368,6 +368,8 @@
 	│
 	├── vocab
 	│   └── char.txt                	# list of chars in vocabulary for chinese
+	│   └── cc.zh.300.vec			# fastText pretrained embedding downloaded from external
+	│   └── char.npy			# chinese characters and their embedding values (300 dim)	
 	│	
 	└── main
 		└── lstm_seq2seq_train.ipynb    # step 2. train and evaluate model
