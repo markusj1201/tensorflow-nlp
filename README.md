@@ -401,7 +401,7 @@
 			
 			* [\<Notebook> Training](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/free_chat/chinese/main/lstm_seq2seq_train.ipynb)
 			
-				LSTM + Attention + Beam Search -> 7.317 Perplexity & 23.3 BLEU
+				LSTM + Attention + Beam Search -> 21.1 Perplexity & 13.7 BLEU
 			
 			* [\<Notebook> Export](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/free_chat/chinese/main/lstm_seq2seq_export.ipynb)
 			
