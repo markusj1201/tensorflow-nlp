@@ -52,8 +52,6 @@
 
 				* RNN Seq2Seq + Attention
 
-				* Transformer
-
 		* Multi-turn (多轮对话)
 		
 			* [Multi-turn Dialogue Rewriting（多轮对话改写）](https://github.com/zhedongzheng/finch#multi-turn-dialogue-rewriting)
