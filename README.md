@@ -379,19 +379,19 @@
 
 		* [Data is provided by GaoQ1, Thanks for him](https://github.com/yangjianxin1/GPT2-chitchat#%E9%97%B2%E8%81%8A%E8%AF%AD%E6%96%99%E5%88%86%E4%BA%AB)
 
-		* [\<Notebook>: Make Data & Vocabulary](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/free_chat/chinese/data/make_data.ipynb)
+		* [\<Notebook>: Make Data & Vocabulary](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/free_chat/chinese_gaoq1/data/make_data.ipynb)
 
 	* Model: [RNN Seq2Seq + Attention](https://arxiv.org/abs/1409.0473)
 
 		* TensorFlow 1
 			
-			* [\<Notebook> Training](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/free_chat/chinese/main/lstm_seq2seq_train.ipynb)
+			* [\<Notebook> Training](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/free_chat/chinese_gaoq1/main/lstm_seq2seq_train.ipynb)
 			
 				LSTM + Attention + Beam Search -> 28.6 Perplexity & 10.5 BLEU-2
 			
-			* [\<Notebook> Export](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/free_chat/chinese/main/lstm_seq2seq_export.ipynb)
+			* [\<Notebook> Export](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/free_chat/chinese_gaoq1/main/lstm_seq2seq_export.ipynb)
 			
-			* [\<Notebook> Inference](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/free_chat/chinese/main/lstm_seq2seq_predict.ipynb)
+			* [\<Notebook> Inference](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/free_chat/chinese_gaoq1/main/lstm_seq2seq_predict.ipynb)
 			
 	* [\<Notebook> TF Serving Example](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/free_chat/chinese/main/gru_seq2seq_serving.ipynb)
 
