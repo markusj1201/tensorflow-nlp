@@ -357,7 +357,7 @@
 ## Generative Dialog
 
 ```
-└── finch/tensorflow1/free_chat/chinese
+└── finch/tensorflow1/free_chat/chinese_gaoq1
 	│
 	├── data
 	│   └── make_data.ipynb           	# step 1. run this to generate vocab {char.txt} and data {reduce.txt & core.txt} 
