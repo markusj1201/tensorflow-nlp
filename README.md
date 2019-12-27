@@ -363,8 +363,6 @@
 	│
 	├── data
 	│   └── make_data.ipynb           	# step 1. run this to generate vocab {char.txt} and data {reduce.txt & core.txt} 
-	│   └── reduced.txt     		# public corpus collected from the internet, after cleaning (large, around 200k)
-	│   └── core.txt   		  	# private human labelled corpus (small, around 100)
 	│
 	├── vocab
 	│   └── char.txt                	# list of chars in vocabulary for chinese
@@ -375,23 +373,13 @@
 		└── lstm_seq2seq_train.ipynb    # step 2. train and evaluate model
 		└── lstm_seq2seq_export.ipynb   # step 3. export trained tf model
 		└── lstm_seq2seq_predict.ipynb  # step 4. end-to-end inference
-		└── transformer_train.ipynb     # step 2. train and evaluate model
-		└── transformer_export.ipynb    # step 3. export trained tf model
-		└── transformer_predict.ipynb   # step 4. end-to-end inference
 		
 ```
 
 * Task: Chinese Free Chat
 	* Data
-		* Public data consists of two parts: 
 
-			* [小黄鸡语料](https://github.com/candlewill/Dialog_Corpus)
-
-			* [STC-3](http://coai.cs.tsinghua.edu.cn/hml/challenge/dataset_description/)
-
-		* [\<Text File>: Data Example of Corpus collected from the Internet](https://github.com/zhedongzheng/tensorflow-nlp/blob/master/finch/tensorflow1/free_chat/chinese/data/reduced.txt)
-
-		* [\<Text File>: Data Example of Corpus labelled by Human](https://github.com/zhedongzheng/tensorflow-nlp/blob/master/finch/tensorflow1/free_chat/chinese/data/core.txt)
+		* [Data provided by GaoQ1](https://github.com/yangjianxin1/GPT2-chitchat)
 
 		* [\<Notebook>: Make Data & Vocabulary](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/free_chat/chinese/data/make_data.ipynb)
 
@@ -401,25 +389,13 @@
 			
 			* [\<Notebook> Training](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/free_chat/chinese/main/lstm_seq2seq_train.ipynb)
 			
-				LSTM + Attention + Beam Search -> 21.1 Perplexity & 13.7 BLEU
+				LSTM + Attention + Beam Search -> 28.6 Perplexity & 10.5 BLEU-2
 			
 			* [\<Notebook> Export](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/free_chat/chinese/main/lstm_seq2seq_export.ipynb)
 			
 			* [\<Notebook> Inference](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/free_chat/chinese/main/lstm_seq2seq_predict.ipynb)
-
-	* Model: [Transformer](https://arxiv.org/abs/1706.03762)
-
-		* TensorFlow 1 + [Texar](https://github.com/asyml/texar)
 			
-			* [\<Notebook> Training](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/free_chat/chinese/main/transformer_train.ipynb)
-			
-				Transformer + Beam Search -> 20.0 Perplexity & 9.7 BLEU
-			
-			* [\<Notebook> Export](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/free_chat/chinese/main/transformer_export.ipynb)
-			
-			* [\<Notebook> Inference](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/free_chat/chinese/main/transformer_predict.ipynb)
-			
-	* [\<Notebook> TF Serving](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/free_chat/chinese/main/gru_seq2seq_serving.ipynb)
+	* [\<Notebook> TF Serving Example](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/free_chat/chinese/main/gru_seq2seq_serving.ipynb)
 
 ---
 
