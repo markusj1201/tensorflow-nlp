@@ -379,7 +379,7 @@
 * Task: Chinese Free Chat
 	* Data
 
-		* [Data provided by GaoQ1](https://github.com/yangjianxin1/GPT2-chitchat)
+		* [Data is provided by GaoQ1, Thanks for him](https://github.com/yangjianxin1/GPT2-chitchat#%E9%97%B2%E8%81%8A%E8%AF%AD%E6%96%99%E5%88%86%E4%BA%AB)
 
 		* [\<Notebook>: Make Data & Vocabulary](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/finch/tensorflow1/free_chat/chinese/data/make_data.ipynb)
 
