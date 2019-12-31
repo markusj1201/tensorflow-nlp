@@ -38,16 +38,6 @@
 
 				* ATIS
 
-					* Bi-GRU
-
-					* Bi-GRU + CRF
-
-					* Transformer
-
-					* Bi-GRU + Transformer
-
-					* ELMO + Bi-GRU
-
 			* [Generative Dialog（生成式对话）](https://github.com/zhedongzheng/finch#generative-dialog)
 
 				* RNN Seq2Seq + Attention
