@@ -2371,3 +2371,4 @@ Introduction to Compiler Construction in a Java World
 Data Structures and Algorithms in Java
 Game Theory: A Nontechnical Introduction to the Analysis of Strategy
 Society of Actuaries' Textbook on Life Contingencies - Chester Wallace Jordan - Paperback - 2ND
+California Gold - John Jakes
